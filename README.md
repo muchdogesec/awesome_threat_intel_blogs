@@ -52,7 +52,7 @@ A curated list of blogs posting threat intel.
     * Feed: https://www.cisecurity.org/feed/advisories
     * Subscribe: 
 * DHS (Automated Indicator Sharing)
-    * Description: 
+    * Description: Automated Indicator Sharing (AIS), a Cybersecurity and Infrastructure Security Agency (CISA) capability, enables the real-time exchange of machine-readable cyber threat indicators and defensive measures to help protect participants of the AIS community and ultimately reduce the prevalence of cyberattacks.
     * Web: https://www.cisa.gov/ais
     * Feed: https://www.cisa.gov/automated-https:indicator-sharing-ais
     * Subscribe: 
@@ -81,22 +81,22 @@ A curated list of blogs posting threat intel.
     * Web: https://isc.sans.edu/
     * Feed: https://isc.sans.edu/rssfeed_full.xml
     * Subscribe: 
-* US-Cert (Advisories)
+* US-Cert National Cyber Awareness System (Advisories)
     * Description: Advisories provide timely information about current security issues, vulnerabilities, and exploits.
     * Web: https://www.us-cert.gov/ics/advisories
     * Feed: https://us-cert.cisa.gov/ics/advisories/advisories.xml
     * Subscribe:
-* US-Cert (Alerts)
+* US-Cert National Cyber Awareness System (Alerts)
     * Description: Provide timely information about current security issues, vulnerabilities, and exploits.
     * Web: https://us-cert.cisa.gov/ncas/alerts
     * Feed: https://us-cert.cisa.gov/ncas/alerts.xml
     * Subscribe: 
-* US-Cert (Analysis Reports)
+* US-Cert National Cyber Awareness System (Analysis Reports)
     * Description: Analysis Reports provide in-depth analysis on a new or evolving cyber threat.
     * Web: https://us-cert.cisa.gov/ncas/analysis-reports
     * Feed: https://us-cert.cisa.gov/ncas/analysis-reports.xml
     * Subscribe: 
-* US-Cert (Current Activity)
+* US-Cert National Cyber Awareness System (Current Activity)
     * Description: Provides up-to-date information about high-impact types of security activity affecting the community at large.
     * Web: https://us-cert.cisa.gov/ncas/current-activity
     * Feed: https://us-cert.cisa.gov/ncas/current-activity.xml
@@ -472,7 +472,7 @@ A curated list of blogs posting threat intel.
     * Feed: http://researchcenter.paloaltonetworks.com/unit42/feed/
     * Subscribe: 
 * PhishLabs
-    * Description: 
+    * Description: PhishLabs provides Digital Risk Protection through curated threat intelligence and complete mitigation for web, social, and email threats.
     * Web: https://www.phishlabs.com/blog/
     * Feed: http://blog.phishlabs.com/rss.xml
     * Subscribe: 
