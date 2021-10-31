@@ -233,28 +233,28 @@ A curated list of blogs posting threat intel.
 
 * 0patch Blog
     * Description: 0patch (pronounced 'zero patch') is a platform for instantly distributing, applying and removing microscopic binary patches to/from running processes without having to restart these processes (much less reboot the entire computer). Brought to you by ACROS Security.
-    * Web: http://0patch.blogspot.com/
+    * Web: https://blog.0patch.com/
     * Feed: https://blog.0patch.com/feeds/posts/default
-    * Subscribe: https://app.obstracts.com/
-* Agari
-    * Description: Agari Cyber Intelligence Division (ACID) is the world’s only counterintelligence research group dedicated to business email compromise (BEC) investigation and cybercrime abatement.
-    * Web: https://acid.agari.com/
-    * Feed: https://www.agari.com/feed/
     * Subscribe: https://app.obstracts.com/
 * Anomali
     * Description: Anomali delivers intelligence-driven cybersecurity solutions that enable businesses to gain unlimited threat visibility, speed time to detection, and improve the productivity of security teams.
     * Web: https://blog.anomali.com/
     * Feed: https://www.anomali.com/site/blog-rss
     * Subscribe: https://app.obstracts.com/
-* AT&T Alienvault Labs
-    * Description: The most recent posts from across the AlienVault blogs.
-    * Web: https://cybersecurity.att.com/blogs/labs-research
-    * Feed: http://feeds.feedblitz.com/alienvault-blogs&x=1
+* AT&T Cybersecurity
+    * Description: The most recent posts from across the AT&T Cybersecurity blogs.
+    * Web: https://cybersecurity.att.com/blogs/
+    * Feed: https://cybersecurity.att.com/site/blog-all-rss
     * Subscribe: https://app.obstracts.com/
 * Bitdefender Labs
     * Description: Bitdefender Labs discovers 400 new threats each minute and validates 30 billion threat queries daily.
     * Web: https://www.bitdefender.com/blog/labs/
     * Feed: https://www.bitdefender.com/blog/api/rss/labs/
+    * Subscribe: https://app.obstracts.com/
+* Broadcom Symantec blogs
+    * Description: Symantec Enterprise Blog
+    * Web: https://symantec-enterprise-blogs.security.com/blogs/
+    * Feed: https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml
     * Subscribe: https://app.obstracts.com/
 * Checkpoint
     * Description: Checkpoint research blog
@@ -266,25 +266,10 @@ A curated list of blogs posting threat intel.
     * Web: https://blogs.cisco.com/security/
     * Feed: https://blogs.cisco.com/security/feed
     * Subscribe: https://app.obstracts.com/
-* Cisco Talos Intelligence Group (Headlines)
+* Cisco Talos Intelligence Group
     * Description: Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world, comprised of world-class researchers, analysts and engineers.
-    * Web: https://blog.talosintelligence.com/search/?q=label:%22Headlines%22
-    * Feed: https://blog.talosintelligence.com/feeds/posts/default/-/Headlines
-    * Subscribe: https://app.obstracts.com/
-* Cisco Talos Intelligence Group (Threat Roundup)
-    * Description: Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world, comprised of world-class researchers, analysts and engineers.
-    * Web: https://blog.talosintelligence.com/search/?q=label:%22Threat%20Roundup%22
-    * Feed: https://blog.talosintelligence.com/feeds/posts/default/-/Threat%20Roundup
-    * Subscribe: https://app.obstracts.com/
-* Cisco Talos Intelligence Group (Threats)
-    * Description: Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world, comprised of world-class researchers, analysts and engineers.
-    * Web: https://blog.talosintelligence.com/search/?q=label:%22threats%22
-    * Feed: https://blog.talosintelligence.com/feeds/posts/default/-/threats
-    * Subscribe: https://app.obstracts.com/
-* Cisco Talos Intelligence Group (Vulnerabilities)
-    * Description: Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world, comprised of world-class researchers, analysts and engineers.
-    * Web: https://blog.talosintelligence.com/search/?q=label:%22vulnerabilities%22
-    * Feed: https://blog.talosintelligence.com/feeds/posts/default/-/vulnerabilities
+    * Web: https://blog.talosintelligence.com/
+    * Feed: http://feeds.feedburner.com/feedburner/Talos
     * Subscribe: https://app.obstracts.com/
 * Cofense Intelligence
     * Description: Cofense Phishing Prevention & Email Security Blog
@@ -386,6 +371,11 @@ A curated list of blogs posting threat intel.
     * Web: https://blogs.quickheal.com/
     * Feed: https://blogs.quickheal.com/feed/
     * Subscribe: https://app.obstracts.com/
+* The Record
+    * Description: The Record by Recorded Future gives you exclusive, behind-the-scenes access to leaders, policymakers, researchers, and the people in the shadows of the cyber underground.
+    * Web: https://therecord.media/
+    * Feed: https://therecord.media/feed/
+    * Subscribe: https://app.obstracts.com/
 * Recorded Future (Cyber Threat Intelligence)
     * Description: Our aim is ambitious: to organize and analyze threat data in an entirely new and different way for better, faster security.
     * Web: https://www.recordedfuture.com/category/cyber/
@@ -421,20 +411,20 @@ A curated list of blogs posting threat intel.
     * Web: https://securelist.com/
     * Feed: https://securelist.com/feed/
     * Subscribe: https://app.obstracts.com/
-* Dell SecureWorks (Research Intelligence)
+* Dell SecureWorks (Research & Intelligence)
     * Description: Dell SecureWorks is able to help enterprises achieve these goals by delivering a tightly integrated suite of Managed Security Services.
     * Web: https://www.secureworks.com/blog
     * Feed: https://www.secureworks.com/rss?feed=blog&category=research-intelligence
     * Subscribe: https://app.obstracts.com/
 * SensePost (Orange)
-    * Description: SensePost an ethical hacking team of Orange Cyberdefense.
+    * Description: SensePost is an ethical hacking team of Orange Cyberdefense.
     * Web: https://sensepost.com/blog
     * Feed: https://sensepost.com/rss.xml
     * Subscribe: https://app.obstracts.com/
 * SentinelOne Labs
     * Description: SentinelLabs is an open venue for our threat researchers and vetted contributors to reliably share their latest findings with a wider community of defenders.
-    * Web: https://labs.sentinelone.com/
-    * Feed: https://labs.sentinelone.com/feed/
+    * Web: https://www.sentinelone.com/labs/
+    * Feed: https://www.sentinelone.com/labs/feed/
     * Subscribe: https://app.obstracts.com/
 * SOC Prime
     * Description: SOC Prime is the platform to advance your cyber security analytics. Our mission is to reduce the cyber breach risk for business of any size everywhere.
