@@ -271,6 +271,11 @@ A curated list of blogs posting threat intel.
     * Web: https://blog.talosintelligence.com/
     * Feed: http://feeds.feedburner.com/feedburner/Talos
     * Subscribe: https://app.obstracts.com/
+* Cloudflare Security Blog
+    * Description: Post tagged with security on the Cloudflare Blog
+    * Web: https://blog.cloudflare.com/tag/security/
+    * Feed: https://blog.cloudflare.com/tag/security/rss
+    * Subscribe: https://app.obstracts.com/
 * Cofense Intelligence
     * Description: Cofense Phishing Prevention & Email Security Blog
     * Web: https://cofense.com/blog/
@@ -345,7 +350,7 @@ A curated list of blogs posting threat intel.
     * Description: The Microsoft Security Response Center is part of the defender community and on the front line of security response evolution.
     * Web: https://msrc-blog.microsoft.com/
     * Feed: https://msrc-blog.microsoft.com/feed/
-    * Subscribe: https://app.obstracts.com/
+    * Subscribe: https://app.obstracts.com/report/list/?feed_uuid=3d89d939-f28f-459d-8313-6268c9955fc7
 * Naked Security (Sophos)
     * Description: Computer security news, opinion, advice and research from anti-virus experts Sophos.
     * Web: https://nakedsecurity.sophos.com/
@@ -431,6 +436,11 @@ A curated list of blogs posting threat intel.
     * Web: https://socprime.com/blog/
     * Feed: https://socprime.com/blog/feed/
     * Subscribe: https://app.obstracts.com/
+* Signals Corps
+    * Description: Our blog!
+    * Web: https://www.signalscorps.com/blog/
+    * Feed: https://www.signalscorps.com/feed.xml
+    * Subscribe: https://app.obstracts.com/report/list/?feed_uuid=581735fe-8dce-44c1-9f4a-2553549be6bb
 * SpecterOps
     * Description: Posts from SpecterOps team members on various topics relating information security
     * Web: https://posts.specterops.io/
