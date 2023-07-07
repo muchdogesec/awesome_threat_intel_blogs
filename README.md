@@ -256,6 +256,11 @@ A curated list of blogs posting threat intel.
     * Web: https://symantec-enterprise-blogs.security.com/blogs/
     * Feed: https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml
     * Subscribe: https://app.obstracts.com/
+* Censys Blog
+    * Description: Posts from the Censys team
+    * Web: https://censys.io/category/blog/
+    * Feed: https://censys.io/feed/
+    * Subscribe:
 * Checkpoint
     * Description: Checkpoint research blog
     * Web: https://research.checkpoint.com/
