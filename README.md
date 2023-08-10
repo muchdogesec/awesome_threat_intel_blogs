@@ -640,6 +640,29 @@ A curated list of blogs posting threat intel.
     </tr>
 </table>
 
+## Miscellaneous
+
+### Finding feed URLs
+
+Many feeds paths can be guessed when a standard blog framework is used. e.g by appending the following to the URL path;
+
+* `/feed`
+* `/rss`
+
+Typically, but not always, feed URLs are also reported in the source code of the blog;
+
+Right-click -> View Page Source -> Ctrl+f `atom` or `rss`
+
+In some cases, blog categories have their own feeds so don't forget to check these if you only want a certain category of posts.
+
+### Dealing with blogs with no feeds
+
+There are tons of services that will create feeds from websites, Google; "create rss feed for a website".
+
+For example; https://rss.app/
+
+I can't recommend any, but on cursory testing they appear to pretty good at creating live feeds for blogs and Twitter feeds.
+
 ## Contributing
 
 Feel free to [contribute](CONTRIBUTING.md).
