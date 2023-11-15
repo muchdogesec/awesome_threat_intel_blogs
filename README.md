@@ -215,6 +215,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Cyber Security News</td>
+        <td>Latest Hacker and Security News</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/</td>
+        <td>https://cybersecuritynews.com/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>Dark Reading (all)</td>
         <td>Long one of the most widely-read cybersecurity news sites on the Web, Dark Reading is now the most trusted online community for security professionals like you.</td>
         <td>Media</td>
@@ -642,6 +651,10 @@ A curated list of blogs posting threat intel.
 
 ## Miscellaneous
 
+### Google Sheets version
+
+[You can get a copy of the above table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
+
 ### Finding feed URLs
 
 Many feeds paths can be guessed when a standard blog framework is used. e.g by appending the following to the URL path;
@@ -669,4 +682,4 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 ## License
 
-[Apache 2.0](LICENSE).
+[Creative Commons Attribution 4.0 International Public License](LICENSE).
