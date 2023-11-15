@@ -1,4 +1,4 @@
-# Awesome Threat Intel Feeds
+# Awesome Threat Intel Blogs
 
 A curated list of blogs posting threat intel.
 
