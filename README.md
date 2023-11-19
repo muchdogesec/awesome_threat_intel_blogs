@@ -4,15 +4,23 @@ A curated list of blogs posting threat intel.
 
 <table>
     <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Category</th>
-        <th>Web Link</th>
-        <th>Feed Link</th>
-        <th>Feed Type</th>
-        <th>Last checked</th>
+        <td>Name</td>
+        <td>Description</td>
+        <td>Category</td>
+        <td>Web Link</td>
+        <td>Feed Link</td>
+        <td>Feed Type</td>
+        <td>Last checked</td>
     </tr>
-    <!--ANALYST-->
+    <tr>
+        <td>0xToxin</td>
+        <td>Threat Analyst &amp; IR team leader - Malware Analysis - Blue Team</td>
+        <td>Analyst</td>
+        <td>https://0xtoxin.github.io/</td>
+        <td>https://0xtoxin.github.io/feed.xml</td>
+        <td>ATOM</td>
+        <td>2023-11-15</td>
+    </tr>
     <tr>
         <td>bellingcat (Investigations)</td>
         <td>Bellingcat is an independent international collective of researchers, investigators and citizen journalists using open source and social media investigation to probe a variety of subjects.</td>
@@ -39,6 +47,15 @@ A curated list of blogs posting threat intel.
         <td>https://www.grahamcluley.com/feed/</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Jossef Harush Kadouri</td>
+        <td>Founder of dusti.co and zeronetworks.com. Writing about: Attackers, Software Supply Chain Security, and Malware Analysis</td>
+        <td>Analyst</td>
+        <td>https://medium.com/@jossef</td>
+        <td>https://medium.com/@jossef/feed</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>Krebs on Security</td>
@@ -86,6 +103,24 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>taha aka &quot;lordx64&quot;</td>
+        <td>Malware reverse engineer</td>
+        <td>Analyst</td>
+        <td>https://lordx64.medium.com/</td>
+        <td>https://lordx64.medium.com/feed</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
+        <td>The DFIR Report</td>
+        <td>Real Intrusions by Real Attackers, The Truth Behind the Intrusion</td>
+        <td>Analyst</td>
+        <td>https://thedfirreport.com/</td>
+        <td>https://thedfirreport.com/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>Troy Hunt</td>
         <td>Troy Hunt&#39;s blog showcases a lot of the different issues with which he is familiar. He is a Microsoft MVP and Pluralsight author whose credentials also include working with Pfizer.</td>
         <td>Analyst</td>
@@ -94,7 +129,15 @@ A curated list of blogs posting threat intel.
         <td>RSS</td>
         <td>2023-08-07</td>
     </tr>
-    <!--COMMUNITY-->
+    <tr>
+        <td>ISC Handler&#39;s Diary</td>
+        <td></td>
+        <td>Community</td>
+        <td>https://isc.sans.edu/diary</td>
+        <td>https://isc.sans.edu/rssfeed_full.xml</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
     <tr>
         <td>Reddit /r/cybersecurity</td>
         <td>Cyber security sub-Reddit</td>
@@ -122,7 +165,6 @@ A curated list of blogs posting threat intel.
         <td>RSS</td>
         <td>2023-08-07</td>
     </tr>
-    <!--GOVERNMENT-->
     <tr>
         <td>Center for Internet Security (ICS Advisories)</td>
         <td>At CIS, we’re harnessing the power of the global IT community to safeguard public and private organizations against cyber threats. Join us.</td>
@@ -147,15 +189,6 @@ A curated list of blogs posting threat intel.
         <td>Government</td>
         <td>https://www.nist.gov/blogs/cybersecurity-insights</td>
         <td>https://www.nist.gov/blogs/cybersecurity-insights/rss.xml</td>
-        <td>RSS</td>
-        <td>2023-08-07</td>
-    </tr>
-    <tr>
-        <td>US-Cert National Cyber Awareness System (Advisories)</td>
-        <td>Advisories provide timely information about current security issues, vulnerabilities, and exploits.</td>
-        <td>Government</td>
-        <td>https://www.us-cert.gov/ics/advisories</td>
-        <td>https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml</td>
         <td>RSS</td>
         <td>2023-08-07</td>
     </tr>
@@ -186,7 +219,6 @@ A curated list of blogs posting threat intel.
         <td>RSS</td>
         <td>2023-08-07</td>
     </tr>
-    <!--MEDIA-->
     <tr>
         <td>Ars Technica (Security)</td>
         <td>Serving the Technologist for more than a decade. IT news, reviews, and analysis.</td>
@@ -340,7 +372,33 @@ A curated list of blogs posting threat intel.
         <td>RSS</td>
         <td>2023-08-07</td>
     </tr>
-    <!--VENDOR-->
+    <tr>
+        <td>@BushidoToken Threat Intel</td>
+        <td>Security Researcher</td>
+        <td>Vendor</td>
+        <td>https://blog.bushidotoken.net/</td>
+        <td>https://blog.bushidotoken.net/feeds/posts/default</td>
+        <td>ATOM</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
+        <td>360 CERT</td>
+        <td>360 Computer Emergency Readiness Team</td>
+        <td>Vendor</td>
+        <td>https://cert.360.cn/</td>
+        <td>https://cert.360.cn/feed</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
+        <td>ASEC BLOG</td>
+        <td>AhnLab</td>
+        <td>Vendor</td>
+        <td>https://asec.ahnlab.com/en/</td>
+        <td>https://asec.ahnlab.com/en/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
     <tr>
         <td>AT&amp;T Cybersecurity (Alienvault research)</td>
         <td>The most recent posts from across the AT&amp;T Cybersecurity blogs.</td>
@@ -360,6 +418,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Bolster AI (Research)</td>
+        <td></td>
+        <td>Vendor</td>
+        <td>https://bolster.ai/tag/research/</td>
+        <td>https://bolster.ai/tag/research/feed</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>Broadcom Symantec blogs (Threat Intelligence)</td>
         <td>Symantec Enterprise Blog</td>
         <td>Vendor</td>
@@ -367,6 +434,24 @@ A curated list of blogs posting threat intel.
         <td>https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Cado Security</td>
+        <td>Cloud Forensics and Incident Response</td>
+        <td>Vendor</td>
+        <td>https://www.cadosecurity.com/blog/</td>
+        <td>https://www.cadosecurity.com/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
+        <td>Checkmarx</td>
+        <td>Checkmarx empowers organizations to develop and release more secure software faster.</td>
+        <td>Vendor</td>
+        <td>https://medium.com/checkmarx-security</td>
+        <td>https://medium.com/feed/checkmarx-security</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>Checkpoint</td>
@@ -414,6 +499,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Cyble</td>
+        <td>Cyble Research and Intelligence (CRIL) Blogs</td>
+        <td>Vendor</td>
+        <td>https://cyble.com/blog/</td>
+        <td>https://cyble.com/blog/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>Dell SecureWorks (Research &amp; Intelligence)</td>
         <td>Dell SecureWorks is able to help enterprises achieve these goals by delivering a tightly integrated suite of Managed Security Services.</td>
         <td>Vendor</td>
@@ -421,6 +515,15 @@ A curated list of blogs posting threat intel.
         <td>https://www.secureworks.com/rss?feed=blog&amp;category=research-intelligence</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Doctor Web news</td>
+        <td>Real-time threat news</td>
+        <td>Vendor</td>
+        <td>https://news.drweb.com/list/?c=23&amp;lng=en</td>
+        <td>https://news.drweb.com/rss/get/?c=23</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>EclecticIQ</td>
@@ -486,6 +589,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Infoblox (Threat Intel)</td>
+        <td>Next Level Networking</td>
+        <td>Vendor</td>
+        <td>https://blogs.infoblox.com/category/cyber-threat-intelligence/</td>
+        <td>https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>Intezer (research)</td>
         <td>The AI model is broken. Too many alerts and threats missed while attackers keep innovating. Intezer is leveling this uneven playing field by preventing attackers from reusing code and hurting their ROI.</td>
         <td>Vendor</td>
@@ -504,6 +616,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Mandiant All Blog Listing</td>
+        <td>Cyber Defense &amp; Threat Intelligence Resources</td>
+        <td>Vendor</td>
+        <td>https://www.mandiant.com/resources/blog/</td>
+        <td>https://www.mandiant.com/resources/blog/rss.xml</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>Microsoft Security Blog</td>
         <td>Microsoft Security helps protect people and data against cyberthreats to give you peace of mind.</td>
         <td>Vendor</td>
@@ -520,6 +641,15 @@ A curated list of blogs posting threat intel.
         <td>https://msrc-blog.microsoft.com/feed/report/list/?feed_uuid=3d89d939-f28f-459d-8313-6268c9955fc7</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Morphisec Breach Prevention Blog</td>
+        <td>Cybersecurity trends and news, with info about Morphisec, breach prevention, and zero trust endpoint, server, and workload security.</td>
+        <td>Vendor</td>
+        <td>https://blog.morphisec.com/</td>
+        <td>https://blog.morphisec.com/rss.xml</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>Naked Security (Sophos)</td>
@@ -585,6 +715,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Security Lit</td>
+        <td>Stories by Security Lit Limited</td>
+        <td>Vendor</td>
+        <td>https://securitylit.medium.com/</td>
+        <td>https://securitylit.medium.com/feed</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>SensePost (Orange)</td>
         <td>SensePost is an ethical hacking team of Orange Cyberdefense.</td>
         <td>Vendor</td>
@@ -592,6 +731,15 @@ A curated list of blogs posting threat intel.
         <td>https://sensepost.com/rss.xml</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>SentinelOne</td>
+        <td>Next Generation Endpoint Security</td>
+        <td>Vendor</td>
+        <td>https://www.sentinelone.com/blog/</td>
+        <td>https://www.sentinelone.com/blog/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>SentinelOne Labs</td>
@@ -603,6 +751,24 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>seqrite</td>
+        <td>Blogs on Information Technology, Network &amp; Cybersecurity</td>
+        <td>Vendor</td>
+        <td>https://www.seqrite.com/blog/</td>
+        <td>https://www.seqrite.com/blog/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
+        <td>Sequoia (Threat Intel Research)</td>
+        <td>One view. Total control.</td>
+        <td>Vendor</td>
+        <td>https://blog.sekoia.io/category/research-threat-intelligence/</td>
+        <td>https://blog.sekoia.io/category/research-threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>SOC Prime</td>
         <td>SOC Prime is the platform to advance your cyber security analytics. Our mission is to reduce the cyber breach risk for business of any size everywhere.</td>
         <td>Vendor</td>
@@ -612,6 +778,24 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Sophos (Threat Research)</td>
+        <td>The Sophos Blog</td>
+        <td>Vendor</td>
+        <td>https://news.sophos.com/en-us/category/threat-research/</td>
+        <td>https://news.sophos.com/en-us/category/threat-research/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
+        <td>Team Cymru (Dragon News Blog)</td>
+        <td></td>
+        <td>Vendor</td>
+        <td>https://www.team-cymru.com/blog</td>
+        <td>https://www.team-cymru.com/blog-feed.xml</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>The Record</td>
         <td>The Record by Recorded Future gives you exclusive, behind-the-scenes access to leaders, policymakers, researchers, and the people in the shadows of the cyber underground.</td>
         <td>Vendor</td>
@@ -619,6 +803,15 @@ A curated list of blogs posting threat intel.
         <td>https://therecord.media/feed/</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Trustwave SpiderLabs Blog</td>
+        <td>The security community&amp;#39;s go-to destination for technical breakdowns of the latest threats, critical vulnerability disclosures and cutting-edge research</td>
+        <td>Vendor</td>
+        <td>https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog</td>
+        <td>https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rss.xml</td>
+        <td>RSS</td>
+        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>UpGuard Blog (breaches)</td>
@@ -654,6 +847,8 @@ A curated list of blogs posting threat intel.
 ### Google Sheets version
 
 [You can get a copy of the above table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
+
+To generate the above HTML styled table, [I use this spreadsheet to HTML convertor](https://tableconvert.com/excel-to-html).
 
 ### Finding feed URLs
 
