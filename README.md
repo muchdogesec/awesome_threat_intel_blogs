@@ -670,6 +670,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Pulsedive</td>
+        <td>Pulsedive is a community threat intelligence platform that collects rich context on known threats and performs scans on IPs, domains, and URLs from IOC feeds and user submissions.</td>
+        <td>Vendor</td>
+        <td>https://blog.pulsedive.com/</td>
+        <td>https://blog.pulsedive.com/rss/</td>
+        <td>RSS</td>
+        <td>2023-11-19</td>
+    </tr>
+    <tr>
         <td>Proofpoint</td>
         <td>Proofpoint gives you protection and visibility for your greatest cybersecurity risk—your people.</td>
         <td>Vendor</td>
