@@ -958,15 +958,14 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
-        <th>BRANDEFENSE Blog</th>
-        <th>Description</th>
-        <th>Vendor</th>
-        <th>https://brandefense.io/blog/</th>
-        <th>https://brandefense.io/blog/rss</th>
-        <th>RSS</th>
-        <th>22.11.2023</th>
+        <td>BRANDEFENSE Blog</td>
+        <td>Security news, Blog, Ransomware Analysis</td>
+        <td>Vendor</td>
+        <td>https://brandefense.io/blog/</td>
+        <td>https://brandefense.io/blog/rss/</td>
+        <td>RSS</td>
+        <td>2023-11-23</td>
     </tr>
-
 </table>
 
 ## Miscellaneous
