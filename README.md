@@ -490,6 +490,24 @@ A curated list of blogs posting threat intel.
         <td>2023-11-15</td>
     </tr>
     <tr>
+        <td>ANY.RUN (History)</td>
+        <td>Cybersecurity Blog covers topics for experienced professionals as well as for those new to it.</td>
+        <td>Vendor</td>
+        <td>https://any.run/cybersecurity-blog/category/history/</td>
+        <td>https://any.run/cybersecurity-blog/category/history/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-24</td>
+    </tr>
+    <tr>
+        <td>ANY.RUN (Malware Analysis)</td>
+        <td>Cybersecurity Blog covers topics for experienced professionals as well as for those new to it.</td>
+        <td>Vendor</td>
+        <td>https://any.run/cybersecurity-blog/category/malware-analysis/</td>
+        <td>https://any.run/cybersecurity-blog/category/malware-analysis/feed/</td>
+        <td>RSS</td>
+        <td>2023-11-24</td>
+    </tr>
+    <tr>
         <td>ASEC BLOG</td>
         <td>AhnLab</td>
         <td>Vendor</td>
