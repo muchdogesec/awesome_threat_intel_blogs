@@ -58,6 +58,15 @@ A curated list of blogs posting threat intel.
         <td>2023-11-22</td>
     </tr>
     <tr>
+        <td>Curated Intelligence</td>
+        <td>Bringing together intelligence researchers and incident responders.</td>
+        <td>Analyst</td>
+        <td>https://www.curatedintel.org/</td>
+        <td>https://www.curatedintel.org/feeds/posts/default</td>
+        <td>ATOME</td>
+        <td>2023-11-26</td>
+    </tr>
+    <tr>
         <td>Darknet</td>
         <td>Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more.</td>
         <td>Analyst</td>
