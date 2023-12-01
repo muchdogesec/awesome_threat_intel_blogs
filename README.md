@@ -13,6 +13,15 @@ A curated list of blogs posting threat intel.
         <td>Last checked</td>
     </tr>
     <tr>
+        <td>BushidoToken Threat Intel</td>
+        <td>Security Researcher</td>
+        <td>Analyst</td>
+        <td>https://blog.bushidotoken.net/</td>
+        <td>https://blog.bushidotoken.net/feeds/posts/default</td>
+        <td>ATOM</td>
+        <td>2023-11-15</td>
+    </tr>
+    <tr>
         <td>0xToxin</td>
         <td>Threat Analyst &amp; IR team leader - Malware Analysis - Blue Team</td>
         <td>Analyst</td>
@@ -488,15 +497,6 @@ A curated list of blogs posting threat intel.
         <td>https://www.zdnet.com/topic/security/rss.xml</td>
         <td>RSS</td>
         <td>2023-08-07</td>
-    </tr>
-    <tr>
-        <td>@BushidoToken Threat Intel</td>
-        <td>Security Researcher</td>
-        <td>Vendor</td>
-        <td>https://blog.bushidotoken.net/</td>
-        <td>https://blog.bushidotoken.net/feeds/posts/default</td>
-        <td>ATOM</td>
-        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>360 CERT</td>
