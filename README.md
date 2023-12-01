@@ -427,6 +427,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>The Cyber Express (Firewall Daily)</td>
+        <td>Trending Cybersecurity News, Updates, Magazine and More.</td>
+        <td>Media</td>
+        <td>https://thecyberexpress.com/firewall-daily/</td>
+        <td>https://thecyberexpress.com/firewall-daily/feed</td>
+        <td>RSS</td>
+        <td>2023-12-01</td>
+    </tr>
+    <tr>
         <td>The Cyber Wire</td>
         <td>The CyberWire is an independent voice delivering concise, accessible, and relevant cybersecurity news and cybersecurity podcasts to people all across the globe.</td>
         <td>Media</td>
