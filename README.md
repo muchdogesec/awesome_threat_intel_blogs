@@ -13,15 +13,6 @@ A curated list of blogs posting threat intel.
         <td>Last checked</td>
     </tr>
     <tr>
-        <td>BushidoToken Threat Intel</td>
-        <td>Security Researcher</td>
-        <td>Analyst</td>
-        <td>https://blog.bushidotoken.net/</td>
-        <td>https://blog.bushidotoken.net/feeds/posts/default</td>
-        <td>ATOM</td>
-        <td>2023-11-15</td>
-    </tr>
-    <tr>
         <td>0xToxin</td>
         <td>Threat Analyst &amp; IR team leader - Malware Analysis - Blue Team</td>
         <td>Analyst</td>
@@ -56,6 +47,24 @@ A curated list of blogs posting threat intel.
         <td>https://www.bellingcat.com/category/news/feed</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Blaze&#39;s Security Blog</td>
+        <td>Personal blog about internet &amp; malware threats.</td>
+        <td>Analyst</td>
+        <td>https://bartblaze.blogspot.com/feeds/posts/default</td>
+        <td>https://bartblaze.blogspot.com/</td>
+        <td>ATOM</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>BushidoToken Threat Intel</td>
+        <td>Security Researcher</td>
+        <td>Analyst</td>
+        <td>https://blog.bushidotoken.net/</td>
+        <td>https://blog.bushidotoken.net/feeds/posts/default</td>
+        <td>ATOM</td>
+        <td>2023-11-15</td>
     </tr>
     <tr>
         <td>Connof McGarr</td>
@@ -301,6 +310,24 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>NCSC (UK)</td>
+        <td>Threat Reports</td>
+        <td>Government</td>
+        <td>https://www.ncsc.gov.uk/information/rss-feeds</td>
+        <td>https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>NCSC (UK)</td>
+        <td>General News</td>
+        <td>Government</td>
+        <td>https://www.ncsc.gov.uk/information/rss-feeds</td>
+        <td>https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
         <td>NIST Cybersecurity Insights</td>
         <td>Covering all things cybersecurity at NIST</td>
         <td>Government</td>
@@ -425,6 +452,42 @@ A curated list of blogs posting threat intel.
         <td>https://securityaffairs.co/feed</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Security Online (Cyber Security)</td>
+        <td>Information security blog</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/news/cybersecurity/</td>
+        <td>https://securityonline.info/category/news/cybersecurity/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>Security Online (Malware Analysis)</td>
+        <td>Information security blog</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/malware-analysis/</td>
+        <td>https://securityonline.info/category/malware-analysis/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>Security Online (Malware)</td>
+        <td>Information security blog</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/news/malware/</td>
+        <td>https://securityonline.info/category/news/malware/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>Security Online (Vulnerabilities)</td>
+        <td>Information security blog</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/news/vulnerability/</td>
+        <td>https://securityonline.info/category/news/vulnerability/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
     </tr>
     <tr>
         <td>TechRepublic (security)</td>
@@ -553,6 +616,15 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Black Hills (Blue Team)</td>
+        <td>At Black Hills Information Security (BHIS), we strive to strengthen our customers’ information security infrastructure and employees through penetration testing, consulting, and defensive security services.</td>
+        <td>Vendor</td>
+        <td>https://www.blackhillsinfosec.com/category/blue-team/</td>
+        <td>https://www.blackhillsinfosec.com/category/blue-team/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
         <td>Bolster AI (Research)</td>
         <td></td>
         <td>Vendor</td>
@@ -560,6 +632,15 @@ A curated list of blogs posting threat intel.
         <td>https://bolster.ai/tag/research/feed</td>
         <td>RSS</td>
         <td>2023-11-15</td>
+    </tr>
+    <tr>
+        <td>BRANDEFENSE Blog</td>
+        <td>Security news, Blog, Ransomware Analysis&lt;</td>
+        <td>Vendor</td>
+        <td>https://brandefense.io/blog/</td>
+        <td>https://brandefense.io/blog/rss/</td>
+        <td>RSS</td>
+        <td>2023-11-23</td>
     </tr>
     <tr>
         <td>Broadcom Symantec blogs (Threat Intelligence)</td>
@@ -661,6 +742,15 @@ A curated list of blogs posting threat intel.
         <td>2023-11-15</td>
     </tr>
     <tr>
+        <td>DomainTools</td>
+        <td>Innovative, Practical Advice to Improve your Cybersecurity Posture</td>
+        <td>Vendor</td>
+        <td>https://www.domaintools.com/resources/blog</td>
+        <td>https://www.domaintools.com/resources/blog/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
         <td>EclecticIQ</td>
         <td>EclecticIQ Fusion Center delivers thematic intelligence bundles, which provide you with a curated single source of relevant cyber threat intelligence.</td>
         <td>Vendor</td>
@@ -722,6 +812,24 @@ A curated list of blogs posting threat intel.
         <td>https://www.hackerone.com/blog.rss</td>
         <td>RSS</td>
         <td>2023-08-07</td>
+    </tr>
+    <tr>
+        <td>Heimdal (Threat Center)</td>
+        <td>A blog about all things internet security</td>
+        <td>Vendor</td>
+        <td>https://heimdalsecurity.com/blog/category/threat-center/</td>
+        <td>https://heimdalsecurity.com/blog/category/threat-center/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>Heimdal (Vulnerability)</td>
+        <td>A blog about all things internet security</td>
+        <td>Vendor</td>
+        <td>https://heimdalsecurity.com/blog/category/vulnerability/</td>
+        <td>https://heimdalsecurity.com/blog/category/vulnerability/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
     </tr>
     <tr>
         <td>IBM Security Intelligence</td>
@@ -859,6 +967,24 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>Reliaquest (Threat Hunting)</td>
+        <td>Make Security Possible</td>
+        <td>Vendor</td>
+        <td>https://www.reliaquest.com/blog/category/threat-hunting/</td>
+        <td>https://www.reliaquest.com/blog/category/threat-hunting/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>Reliaquest (Threat Intelligence)</td>
+        <td>Make Security Possible</td>
+        <td>Vendor</td>
+        <td>https://www.reliaquest.com/blog/category/threat-intelligence/</td>
+        <td>https://www.reliaquest.com/blog/category/threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
         <td>SecureList (Kaspersky)</td>
         <td>Kaspersky’s cyberthreat research and reports</td>
         <td>Vendor</td>
@@ -940,6 +1066,15 @@ A curated list of blogs posting threat intel.
         <td>2023-11-15</td>
     </tr>
     <tr>
+        <td>SpecterOps Blog</td>
+        <td>Posts from SpecterOps team members on various topics relating information security</td>
+        <td>Vendor</td>
+        <td>https://posts.specterops.io/</td>
+        <td>https://posts.specterops.io/feed</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
         <td>Team Cymru</td>
         <td>Dragon News Blog</td>
         <td>Vendor</td>
@@ -985,6 +1120,24 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
+        <td>VirusTotal Blog</td>
+        <td>VirusTotal Blog</td>
+        <td>Vendor</td>
+        <td>https://blog.virustotal.com/</td>
+        <td>https://blog.virustotal.com/feeds/posts/default</td>
+        <td>ATOM</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
+        <td>Volexity</td>
+        <td>Volexity was founded on the belief that the future of cybersecurity will depend on the industry’s ability to master the data found in volatile memory.</td>
+        <td>Vendor</td>
+        <td>https://www.volexity.com/blog/</td>
+        <td>https://www.volexity.com/blog/feed/</td>
+        <td>RSS</td>
+        <td>2023-12-08</td>
+    </tr>
+    <tr>
         <td>We Live Security (ESET)</td>
         <td>Award-winning news, views, and insight from the ESET security community</td>
         <td>Vendor</td>
@@ -994,13 +1147,13 @@ A curated list of blogs posting threat intel.
         <td>2023-08-07</td>
     </tr>
     <tr>
-        <td>BRANDEFENSE Blog</td>
-        <td>Security news, Blog, Ransomware Analysis</td>
+        <td>Zimperium (Threat Research)</td>
+        <td>Zimperium is the only mobile security platform purpose-built for enterprise, securing both mobile devices and applications so they can securely access data.</td>
         <td>Vendor</td>
-        <td>https://brandefense.io/blog/</td>
-        <td>https://brandefense.io/blog/rss/</td>
+        <td>https://www.zimperium.com/blog-category/threat-research/</td>
+        <td>https://www.zimperium.com/blog-category/threat-research/feed/</td>
         <td>RSS</td>
-        <td>2023-11-23</td>
+        <td>2023-12-08</td>
     </tr>
 </table>
 
