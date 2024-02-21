@@ -490,6 +490,96 @@ A curated list of blogs posting threat intel.
         <td>2023-12-08</td>
     </tr>
     <tr>
+        <td>SecurityWeek (all)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/</td>
+        <td>https://www.securityweek.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (Application Security)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/application-security/</td>
+        <td>https://www.securityweek.com/category/application-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (Cloud Security)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/cloud-security/</td>
+        <td>https://www.securityweek.com/category/cloud-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (Endpoint Security)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/endpoint-security/</td>
+        <td>https://www.securityweek.com/category/endpoint-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (ICS &amp; OT)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/ics-ot/</td>
+        <td>https://www.securityweek.com/category/ics-ot/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (IoT Security)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/iot-security/</td>
+        <td>https://www.securityweek.com/category/iot-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (Malware &amp; Threats)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/malware-cyber-threats/</td>
+        <td>https://www.securityweek.com/category/malware-cyber-threats/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (Mobile &amp; Wireless)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/mobile-wireless/</td>
+        <td>https://www.securityweek.com/category/mobile-wireless/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (Network Security)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/network-security/</td>
+        <td>https://www.securityweek.com/category/network-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek (Threat Intelligence)</td>
+        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-02-21</td>
+    </tr>
+    <tr>
         <td>TechRepublic (security)</td>
         <td>TechRepublic provides large resources for the online industry, such as blog articles, forums, technical papers and security data.</td>
         <td>Media</td>
