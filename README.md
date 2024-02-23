@@ -1280,6 +1280,10 @@ I can't recommend any, but on cursory testing they appear to pretty good at crea
 
 Feel free to [contribute](CONTRIBUTING.md).
 
+## Questions and complaints...
+
+[Join the Signals Corps community](https://community.signalscorps.com/).
+
 ## License
 
 [Creative Commons Attribution 4.0 International Public License](LICENSE).
