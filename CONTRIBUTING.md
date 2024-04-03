@@ -14,23 +14,22 @@ Structure of entries:
 ```html
 <table>
     <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Category</th>
-        <th>Web Link</th>
+        <th>Blog</th>
+        <th>Blog Category</th>
+        <th>Type</th>
+        <th>Blog Link</th>
         <th>Feed Link</th>
         <th>Feed Type</th>
         <th>Last checked</th>
     </tr>
-    <!--ANALYST-->
     <tr>
-        <td>NAME</td>
-        <td>DESCRIPTION</td>
-        <td>CATEGORY</td>
-        <td>LINK TO WEB BLOG</td>
-        <td>LINK TO FEED</td>
-        <td>EITHER RSS OR ATOM</td>
-        <td>DATE ADDED</td>
+        <td>Name of the blog</td>
+        <td>If using a specific category/tag feed from the blog, enter this here, else use ALL</td>
+        <td>Pick one: Analyst, Vendor, Government, Media, Community</td>
+        <td>Link to the actual blog, inc. category/tag filter if applicable</td>
+        <td>Link to the actual feed, inc. category/tag filter if applicable</td>
+        <td>The type of feed, either: ATOM or RSS</td>
+        <td>The date you added or modified this entry</td>
     </tr>
 </table>
 ```

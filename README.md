@@ -2,1256 +2,2885 @@
 
 A curated list of blogs posting threat intel.
 
+This list is now very long. [You can get a more manageable copy of the following table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
+
 <table>
     <tr>
-        <td>Name</td>
-        <td>Description</td>
-        <td>Category</td>
-        <td>Web Link</td>
+        <td>Blog</td>
+        <td>Blog Category</td>
+        <td>Type</td>
+        <td>Blog Link</td>
         <td>Feed Link</td>
         <td>Feed Type</td>
         <td>Last checked</td>
     </tr>
     <tr>
         <td>0xToxin</td>
-        <td>Threat Analyst &amp; IR team leader - Malware Analysis - Blue Team</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://0xtoxin.github.io/</td>
         <td>https://0xtoxin.github.io/feed.xml</td>
         <td>ATOM</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Alex Plaskett</td>
-        <td>Random Security Research</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://alexplaskett.github.io/</td>
         <td>https://alexplaskett.github.io/feed</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>apps3c</td>
-        <td>Cybersecurity research focused on offensive security.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://www.apps3c.info/blog/</td>
         <td>https://www.apps3c.info/feed/</td>
         <td>RSS</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>bellingcat (Investigations)</td>
-        <td>Bellingcat is an independent international collective of researchers, investigators and citizen journalists using open source and social media investigation to probe a variety of subjects.</td>
+        <td>bellingcat</td>
+        <td>ALL</td>
         <td>Analyst</td>
-        <td>https://www.bellingcat.com/category/news/feed</td>
+        <td>https://www.bellingcat.com/</td>
+        <td>https://www.bellingcat.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>Investigations</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/news/</td>
         <td>https://www.bellingcat.com/category/news/feed</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>Uncategorized</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/uncategorized/</td>
+        <td>https://www.bellingcat.com/category/uncategorized/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>Middle East &amp; North Africa</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/mena/</td>
+        <td>https://www.bellingcat.com/category/mena/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>UK &amp; Europe</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/uk-and-europe/</td>
+        <td>https://www.bellingcat.com/category/uk-and-europe/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>America</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/americas/</td>
+        <td>https://www.bellingcat.com/category/americas/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>Rest of World</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/rest-of-world/</td>
+        <td>https://www.bellingcat.com/category/rest-of-world/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>Africa</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/africa/</td>
+        <td>https://www.bellingcat.com/category/africa/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Blaze&#39;s Security Blog</td>
-        <td>Personal blog about internet &amp; malware threats.</td>
+        <td>ALL</td>
         <td>Analyst</td>
-        <td>https://bartblaze.blogspot.com/feeds/posts/default</td>
         <td>https://bartblaze.blogspot.com/</td>
+        <td>https://bartblaze.blogspot.com/feeds/posts/default</td>
         <td>ATOM</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>BushidoToken Threat Intel</td>
-        <td>Security Researcher</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://blog.bushidotoken.net/</td>
         <td>https://blog.bushidotoken.net/feeds/posts/default</td>
         <td>ATOM</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Connof McGarr</td>
-        <td>Exploit development and vulnerability research (mostly Windows).</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://connormcgarr.github.io/</td>
         <td>https://connormcgarr.github.io/feed</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Curated Intelligence</td>
-        <td>Bringing together intelligence researchers and incident responders.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://www.curatedintel.org/</td>
         <td>https://www.curatedintel.org/feeds/posts/default</td>
-        <td>ATOME</td>
-        <td>2023-11-26</td>
+        <td>ATOM</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Darknet</td>
-        <td>Darknet is a group of like-minded individuals founded around 1999 sharing knowledge in password cracking, cracking, cryptography, programming (C++, VB, Delphi, C, Pascal, Assembly, Python, PERL, Bash and so on), network security, Linux, Windows, UNIX and more.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>http://www.darknet.org.uk/</td>
         <td>http://www.darknet.org.uk/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Graham Cluley</td>
-        <td>If your computer, and the data on it, is important to you - keep yourself informed about the latest security news by following Graham Cluley Security blog from veteran anti-virus expert Graham Cluley.</td>
+        <td>Darknet</td>
+        <td>Advertorial</td>
         <td>Analyst</td>
-        <td>https://www.grahamcluley.com/</td>
-        <td>https://www.grahamcluley.com/feed/</td>
+        <td>https://www.darknet.org.uk/category/advertorial/</td>
+        <td>https://www.darknet.org.uk/category/advertorial/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Apple</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/apple-hacking/</td>
+        <td>https://www.darknet.org.uk/category/apple-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Countermeasures</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/countermeasures/</td>
+        <td>https://www.darknet.org.uk/category/countermeasures/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Cryptography</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/cryptography/</td>
+        <td>https://www.darknet.org.uk/category/cryptography/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Database Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/database-hacking/</td>
+        <td>https://www.darknet.org.uk/category/database-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Exploits/Vulnerabilities</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/exploitsvulnerabilities/</td>
+        <td>https://www.darknet.org.uk/category/exploitsvulnerabilities/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Forensics</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/forensics/</td>
+        <td>https://www.darknet.org.uk/category/forensics/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Hacker Culture</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/hacker-culture/</td>
+        <td>https://www.darknet.org.uk/category/hacker-culture/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Hacking News</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/hacking-news/</td>
+        <td>https://www.darknet.org.uk/category/hacking-news/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Hacking Tools</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/hacking-tools/</td>
+        <td>https://www.darknet.org.uk/category/hacking-tools/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Hardware Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/hardware-hacking/</td>
+        <td>https://www.darknet.org.uk/category/hardware-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Legal Issues</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/legal-issues/</td>
+        <td>https://www.darknet.org.uk/category/legal-issues/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Linux Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/linux-hacking/</td>
+        <td>https://www.darknet.org.uk/category/linux-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Malware</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/virustrojanswormsrootkits/</td>
+        <td>https://www.darknet.org.uk/category/virustrojanswormsrootkits/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Networking Hacking Tools</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/networking-hacking/</td>
+        <td>https://www.darknet.org.uk/category/networking-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Password Cracking Tools</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/password-cracking/</td>
+        <td>https://www.darknet.org.uk/category/password-cracking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Phishing</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/phishing/</td>
+        <td>https://www.darknet.org.uk/category/phishing/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Privacy</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/privacy/</td>
+        <td>https://www.darknet.org.uk/category/privacy/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Secure Coding</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/secure-coding/</td>
+        <td>https://www.darknet.org.uk/category/secure-coding/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Security Software</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/security-software/</td>
+        <td>https://www.darknet.org.uk/category/security-software/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Social Engineering</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/social-engineering/</td>
+        <td>https://www.darknet.org.uk/category/social-engineering/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Spammers &amp; Scammers</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/spammers-scammers/</td>
+        <td>https://www.darknet.org.uk/category/spammers-scammers/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Stupid E-mails</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/stupid-emails/</td>
+        <td>https://www.darknet.org.uk/category/stupid-emails/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Telecomms Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/telecomms-hacking/</td>
+        <td>https://www.darknet.org.uk/category/telecomms-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>UNIX Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/unix-hacking/</td>
+        <td>https://www.darknet.org.uk/category/unix-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Virology</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/virology/</td>
+        <td>https://www.darknet.org.uk/category/virology/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Web Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/web-hacking/</td>
+        <td>https://www.darknet.org.uk/category/web-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Windows Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/windows-hacking/</td>
+        <td>https://www.darknet.org.uk/category/windows-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>Wireless Hacking</td>
+        <td>Analyst</td>
+        <td>https://www.darknet.org.uk/category/wireless-hacking/</td>
+        <td>https://www.darknet.org.uk/category/wireless-hacking/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Jossef Harush Kadouri</td>
-        <td>Founder of dusti.co and zeronetworks.com. Writing about: Attackers, Software Supply Chain Security, and Malware Analysis</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://medium.com/@jossef</td>
         <td>https://medium.com/@jossef/feed</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Krebs on Security</td>
-        <td>Brian Krebs is a household name in information security, and his blog is among the most well known and respected in the space. A daily blog dedicated to investigative stories on cybercrime and computer security.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://krebsonsecurity.com/</td>
         <td>http://krebsonsecurity.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>A Little Sunshine</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/sunshine/</td>
+        <td>https://krebsonsecurity.com/category/sunshine/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>All About Skimmers</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/all-about-skimmers/</td>
+        <td>https://krebsonsecurity.com/category/all-about-skimmers/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Ashley Madison breach</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/ashley-madison-breach/</td>
+        <td>https://krebsonsecurity.com/category/ashley-madison-breach/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Breadcrumbs</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/breadcrumbs/</td>
+        <td>https://krebsonsecurity.com/category/breadcrumbs/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Data Breaches</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/data-breaches/</td>
+        <td>https://krebsonsecurity.com/category/data-breaches/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>DDoS-for-Hire</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/ddos-for-hire/</td>
+        <td>https://krebsonsecurity.com/category/ddos-for-hire/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Employment Fraud</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/employment-fraud/</td>
+        <td>https://krebsonsecurity.com/category/employment-fraud/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Internet of Things (IoT)</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/internet-of-things-iot/</td>
+        <td>https://krebsonsecurity.com/category/internet-of-things-iot/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Latest Warnings</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/latest-warnings/</td>
+        <td>https://krebsonsecurity.com/category/latest-warnings/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Ne&#39;er-Do-Well News</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/neer-do-well-news/</td>
+        <td>https://krebsonsecurity.com/category/neer-do-well-news/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Other</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/other/</td>
+        <td>https://krebsonsecurity.com/category/other/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Pharma Wars</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/pharma-wars/</td>
+        <td>https://krebsonsecurity.com/category/pharma-wars/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Ransomware</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/ransomware/</td>
+        <td>https://krebsonsecurity.com/category/ransomware/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Russia&#39;s War on Ukraine</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/russias-war-on-ukraine/</td>
+        <td>https://krebsonsecurity.com/category/russias-war-on-ukraine/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Security Tools</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/security-tools/</td>
+        <td>https://krebsonsecurity.com/category/security-tools/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>SIM Swapping</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/sim-swapping/</td>
+        <td>https://krebsonsecurity.com/category/sim-swapping/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Spam Nation</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/spam-nation/</td>
+        <td>https://krebsonsecurity.com/category/spam-nation/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Target: Small Businesses</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/smallbizvictims/</td>
+        <td>https://krebsonsecurity.com/category/smallbizvictims/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Tax Refund Fraud</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/tax-refund-fraud/</td>
+        <td>https://krebsonsecurity.com/category/tax-refund-fraud/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>The Coming Storm</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/comingstorm/</td>
+        <td>https://krebsonsecurity.com/category/comingstorm/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Time to Patch</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/patches/</td>
+        <td>https://krebsonsecurity.com/category/patches/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Krebs on Security</td>
+        <td>Web Fraud 2.0</td>
+        <td>Analyst</td>
+        <td>https://krebsonsecurity.com/category/web-fraud-2-0/</td>
+        <td>https://krebsonsecurity.com/category/web-fraud-2-0/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Lohrmann on Cybersecurity</td>
-        <td>Building effective virtual government requires new ideas, innovative thinking and hard work. From cybersecurity to cloud computing to mobile devices, Dan discusses what’s hot and what works.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://www.govtech.com/blogs/lohrmann-on-cybersecurity</td>
         <td>http://feeds.feedburner.com/govtech/blogs/lohrmann_on_infrastructure</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Low-level adventures</td>
-        <td>A personal blogging experience by @0xricksanchez about all things hardware, RE, exploit-dev, and fuzzing!</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://0x434b.dev/</td>
         <td>https://0x434b.dev/rss/</td>
         <td>RSS</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>maxwelldulin</td>
-        <td>exploitation blog posts (heap)</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://maxwelldulin.com/Blog</td>
         <td>https://maxwelldulin.invades.space/resources-rss.xml</td>
         <td>RSS</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>n1ght-w0lf</td>
-        <td>Malware Analysis - Reverse Engineering - Exploit Development</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://n1ght-w0lf.github.io/</td>
         <td>https://n1ght-w0lf.github.io/feed</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>nao_sec</td>
-        <td>nao_sec is a Cyber Security Research Team</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://nao-sec.org/</td>
         <td>https://nao-sec.org/feed</td>
         <td>ATOM</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Outflux</td>
-        <td>@kees_cook&#39;s blog.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://outflux.net/blog/</td>
         <td>https://outflux.net/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Schneier on Security</td>
-        <td>A blog by Bruce Schneier covering security and security technology. Bruce Schneier is an internationally renowned security technologist and author. He is described by The Economist as a &#39;Security Guru&#39;.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://www.schneier.com/</td>
         <td>https://www.schneier.com/blog/atom.xml</td>
         <td>ATOM</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>sebdraven</td>
-        <td>Malwarist,Threat Huntist and pythonist / core dev of #yeti/ member of @ProjectHoneynet / co-organizer #BotConf / researcher</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://sebdraven.medium.com/</td>
         <td>https://sebdraven.medium.com/feed</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>taha aka &quot;lordx64&quot;</td>
-        <td>Malware reverse engineer</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://lordx64.medium.com/</td>
         <td>https://lordx64.medium.com/feed</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>The DFIR Report</td>
-        <td>Real Intrusions by Real Attackers, The Truth Behind the Intrusion</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://thedfirreport.com/</td>
         <td>https://thedfirreport.com/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Troy Hunt</td>
-        <td>Troy Hunt&#39;s blog showcases a lot of the different issues with which he is familiar. He is a Microsoft MVP and Pluralsight author whose credentials also include working with Pfizer.</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://www.troyhunt.com</td>
         <td>https://www.troyhunt.com/rss/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Troy Hunt</td>
+        <td>Security</td>
+        <td>Analyst</td>
+        <td>https://www.troyhunt.com/tag/security/</td>
+        <td>https://www.troyhunt.com/tag/security/rss/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Troy Hunt</td>
+        <td>Scam</td>
+        <td>Analyst</td>
+        <td>https://www.troyhunt.com/tag/scam/</td>
+        <td>https://www.troyhunt.com/tag/scam/rss/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Will&#39;s Root</td>
-        <td>Pentesting, CTFs, and Writeups</td>
+        <td>ALL</td>
         <td>Analyst</td>
         <td>https://www.willsroot.io/</td>
         <td>https://www.willsroot.io/feeds/posts/default</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>ISC Handler&#39;s Diary</td>
-        <td></td>
+        <td>ALL</td>
         <td>Community</td>
         <td>https://isc.sans.edu/diary</td>
         <td>https://isc.sans.edu/rssfeed_full.xml</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Reddit /r/cybersecurity</td>
-        <td>Cyber security sub-Reddit</td>
+        <td>Reddit</td>
+        <td>/r/cybersecurity</td>
         <td>Community</td>
         <td>https://www.reddit.com/r/cybersecurity/</td>
         <td>https://www.reddit.com/r/cybersecurity/.rss</td>
         <td>ATOM</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Reddit /r/netsec</td>
-        <td>Network security sub-Reddit</td>
+        <td>Reddit</td>
+        <td>/r/netsec</td>
         <td>Community</td>
         <td>http://www.reddit.com/r/netsec/</td>
         <td>http://www.reddit.com/r/netsec/.rss</td>
         <td>ATOM</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>SANS Internet Storm Center Handler&#39;s Diary (Full text)</td>
-        <td>A global cooperative cyber threat / internet security monitor and alert system.</td>
-        <td>Community</td>
-        <td>https://isc.sans.edu/</td>
-        <td>https://isc.sans.edu/rssfeed_full.xml</td>
-        <td>RSS</td>
-        <td>2023-08-07</td>
-    </tr>
-    <tr>
-        <td>ZDI: Blog</td>
-        <td>Security researchers within the ZDI program often blog about their own research and provide additional details about submitted cases</td>
+        <td>Zero Day Initiative</td>
+        <td>Blog</td>
         <td>Community</td>
         <td>https://www.zerodayinitiative.com/blog</td>
         <td>https://www.zerodayinitiative.com/blog/?format=rss</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>ZDI: Published Advisories</td>
+        <td>Zero Day Initiative</td>
         <td>Published Advisories</td>
         <td>Community</td>
         <td>https://www.zerodayinitiative.com/advisories/published/</td>
         <td>https://www.zerodayinitiative.com/rss/published/</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>ZDI: Upcoming Advisories</td>
+        <td>Zero Day Initiative</td>
         <td>Upcoming Advisories</td>
         <td>Community</td>
         <td>https://www.zerodayinitiative.com/advisories/upcoming/</td>
         <td>https://www.zerodayinitiative.com/rss/upcoming/</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Center for Internet Security (ICS Advisories)</td>
-        <td>At CIS, we’re harnessing the power of the global IT community to safeguard public and private organizations against cyber threats. Join us.</td>
+        <td>Center for Internet Security</td>
+        <td>ICS Advisories</td>
         <td>Government</td>
         <td>https://www.cisa.gov/about/contact-us/subscribe-updates-cisa</td>
         <td>https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Center for Internet Security (Medical Advisories)</td>
-        <td>Automated Indicator Sharing (AIS), a Cybersecurity and Infrastructure Security Agency (CISA) capability, enables the real-time exchange of machine-readable cyber threat indicators and defensive measures to help protect participants of the AIS community and ultimately reduce the prevalence of cyberattacks.</td>
+        <td>Center for Internet Security</td>
+        <td>Medical Advisories</td>
         <td>Government</td>
         <td>https://www.cisa.gov/about/contact-us/subscribe-updates-cisa</td>
         <td>https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>NCSC (UK)</td>
-        <td>Threat Reports</td>
+        <td>Reports</td>
         <td>Government</td>
         <td>https://www.ncsc.gov.uk/information/rss-feeds</td>
         <td>https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>NCSC (UK)</td>
-        <td>General News</td>
+        <td>News</td>
         <td>Government</td>
         <td>https://www.ncsc.gov.uk/information/rss-feeds</td>
         <td>https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>NIST Cybersecurity Insights</td>
-        <td>Covering all things cybersecurity at NIST</td>
-        <td>Government</td>
-        <td>https://www.nist.gov/blogs/cybersecurity-insights</td>
-        <td>https://www.nist.gov/blogs/cybersecurity-insights/rss.xml</td>
-        <td>RSS</td>
-        <td>2023-08-07</td>
-    </tr>
-    <tr>
-        <td>US-Cert National Cyber Awareness System (Alerts)</td>
-        <td>Provide timely information about current security issues, vulnerabilities, and exploits.</td>
+        <td>US-Cert National Cyber Awareness System</td>
+        <td>Alerts</td>
         <td>Government</td>
         <td>https://us-cert.cisa.gov/ncas/alerts</td>
         <td>https://us-cert.cisa.gov/ncas/alerts.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>US-Cert National Cyber Awareness System (Analysis Reports)</td>
-        <td>Analysis Reports provide in-depth analysis on a new or evolving cyber threat.</td>
+        <td>US-Cert National Cyber Awareness System</td>
+        <td>Analysis Reports</td>
         <td>Government</td>
         <td>https://us-cert.cisa.gov/ncas/analysis-reports</td>
         <td>https://us-cert.cisa.gov/ncas/analysis-reports.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>US-Cert National Cyber Awareness System (Current Activity)</td>
-        <td>Provides up-to-date information about high-impact types of security activity affecting the community at large.</td>
+        <td>US-Cert National Cyber Awareness System</td>
+        <td>Current Activity</td>
         <td>Government</td>
         <td>https://us-cert.cisa.gov/ncas/current-activity</td>
         <td>https://us-cert.cisa.gov/ncas/current-activity.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Ars Technica (Security)</td>
-        <td>Serving the Technologist for more than a decade. IT news, reviews, and analysis.</td>
+        <td>Ars Technica</td>
+        <td>Security</td>
         <td>Media</td>
         <td>https://arstechnica.com/tag/security/</td>
         <td>https://arstechnica.com/tag/security/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>BleepingComputer</td>
-        <td>Millions of visitors come to BleepingComputer.com every month to learn about the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently.</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://www.bleepingcomputer.com/</td>
         <td>https://www.bleepingcomputer.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>CIO Magazine (Security)</td>
-        <td>CIO is the place where you find news, information technology articles, insight and analysis on major data breaches and online threats. Covering multiple aspects of world wide web, it provides in-depth, content rich information for IT professionals and normal users.</td>
+        <td>CIO Magazine</td>
+        <td>Security</td>
         <td>Media</td>
         <td>https://www.cio.com/security/</td>
         <td>https://www.cio.com/security/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Cyber Security News</td>
-        <td>Latest Hacker and Security News</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://cybersecuritynews.com/</td>
         <td>https://cybersecuritynews.com/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Dark Reading (all)</td>
-        <td>Long one of the most widely-read cybersecurity news sites on the Web, Dark Reading is now the most trusted online community for security professionals like you.</td>
+        <td>Cyber Security News</td>
+        <td>Threats</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/threats/</td>
+        <td>https://cybersecuritynews.com/category/threats/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyber Security News</td>
+        <td>Cyber Attack</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/cyber-attack/</td>
+        <td>https://cybersecuritynews.com/category/cyber-attack/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyber Security News</td>
+        <td>Vulnerability</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/vulnerability/</td>
+        <td>https://cybersecuritynews.com/category/vulnerability/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyber Security News</td>
+        <td>Zero-Day</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/zero-day/</td>
+        <td>https://cybersecuritynews.com/category/zero-day/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyber Security News</td>
+        <td>Data Breaches</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/data-breaches/</td>
+        <td>https://cybersecuritynews.com/category/data-breaches/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyber Security News</td>
+        <td>Cyber AI</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/cyber-ai/</td>
+        <td>https://cybersecuritynews.com/category/cyber-ai/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Dark Reading</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://www.darkreading.com/</td>
         <td>https://www.darkreading.com/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://www.grahamcluley.com/</td>
+        <td>https://www.grahamcluley.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>Malware</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/security-threats/malware/</td>
+        <td>https://grahamcluley.com/category/security-threats/malware/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>Data Loss</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/data-loss/</td>
+        <td>https://grahamcluley.com/category/data-loss/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>Ransomware</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/security-threats/ransomware-malware/</td>
+        <td>https://grahamcluley.com/category/security-threats/ransomware-malware/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>Law &amp; Order</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/law-order/</td>
+        <td>https://grahamcluley.com/category/law-order/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>Mobile</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/mobile/</td>
+        <td>https://grahamcluley.com/category/mobile/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>Privacy</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/privacy/</td>
+        <td>https://grahamcluley.com/category/privacy/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
+        <td>Spam</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/spam/</td>
+        <td>https://grahamcluley.com/category/spam/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>HACKMAGEDDON</td>
-        <td>by Paolo Passeri.</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>http://www.hackmageddon.com/</td>
         <td>https://www.hackmageddon.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>HackRead</td>
-        <td>HACKREAD is a News Platform that centers on InfoSec, Cyber Crime, Privacy, Surveillance and Hacking News with full-scale reviews on Social Media Platforms &amp; Technology trends.</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://www.hackread.com/</td>
         <td>https://www.hackread.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Infosecurity Magazine (news)</td>
-        <td>Infosecurity Magazine is the award winning online magazine dedicated to the strategy, insight and technology of information security.</td>
+        <td>HackRead</td>
+        <td>Hacking News</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/hacking-news/</td>
+        <td>https://www.hackread.com/hacking-news/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Leaks</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/hacking-news/leaks-affairs/</td>
+        <td>https://www.hackread.com/hacking-news/leaks-affairs/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>WikiLeaks</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/hacking-news/wikileaks-affairs/</td>
+        <td>https://www.hackread.com/hacking-news/wikileaks-affairs/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Anonymous</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/hacking-news/anonymous/</td>
+        <td>https://www.hackread.com/hacking-news/anonymous/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Cyber Crime</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/latest-cyber-crime/</td>
+        <td>https://www.hackread.com/latest-cyber-crime/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Phishing Scam</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/latest-cyber-crime/phishing-scam/</td>
+        <td>https://www.hackread.com/latest-cyber-crime/phishing-scam/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Scams and Fraud</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/latest-cyber-crime/scams-and-fraud/</td>
+        <td>https://www.hackread.com/latest-cyber-crime/scams-and-fraud/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Security</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/security/</td>
+        <td>https://www.hackread.com/security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Malware</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/security/malware/</td>
+        <td>https://www.hackread.com/security/malware/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Censorship</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/cyber-events/censorship/</td>
+        <td>https://www.hackread.com/cyber-events/censorship/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Cyber Attacks</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/</td>
+        <td>https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Cryptocurrency</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/cryptocurrency/</td>
+        <td>https://www.hackread.com/cryptocurrency/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Blockchain</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/blockchain/</td>
+        <td>https://www.hackread.com/blockchain/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Surveillance</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/surveillance/</td>
+        <td>https://www.hackread.com/surveillance/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Drones</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/surveillance/drones/</td>
+        <td>https://www.hackread.com/surveillance/drones/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>NSA</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/surveillance/nsa/</td>
+        <td>https://www.hackread.com/surveillance/nsa/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Privacy</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/surveillance/privacy/</td>
+        <td>https://www.hackread.com/surveillance/privacy/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Artificial Intelligence</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/artificial-intelligence/</td>
+        <td>https://www.hackread.com/artificial-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Machine Learning</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/artificial-intelligence/machine-learning/</td>
+        <td>https://www.hackread.com/artificial-intelligence/machine-learning/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://www.infosecurity-magazine.com/news</td>
         <td>http://www.infosecurity-magazine.com/rss/news/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Motherboard (tech)</td>
-        <td>Motherboard is an online magazine and video channel dedicated to technology, science and humans.</td>
+        <td>Infosecurity Magazine</td>
+        <td>Application Security</td>
         <td>Media</td>
-        <td>https://www.vice.com/en_us/section/tech</td>
-        <td>https://www.vice.com/en_us/rss/section/tech</td>
+        <td>https://www.infosecurity-magazine.com/application-security/</td>
+        <td>https://www.infosecurity-magazine.com/rss/application-security/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Automation</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/automation/</td>
+        <td>https://www.infosecurity-magazine.com/rss/automation/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Big Data</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/big-data/</td>
+        <td>https://www.infosecurity-magazine.com/rss/big-data/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Business Continuity</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/business-continuity/</td>
+        <td>https://www.infosecurity-magazine.com/rss/business-continuity/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Cloud Security</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/cloud-security/</td>
+        <td>https://www.infosecurity-magazine.com/rss/cloud-security/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Compliance</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/compliance/</td>
+        <td>https://www.infosecurity-magazine.com/rss/compliance/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Cybercrime</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/cybercrime/</td>
+        <td>https://www.infosecurity-magazine.com/rss/cybercrime/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Data Protection</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/data-protection/</td>
+        <td>https://www.infosecurity-magazine.com/rss/data-protection/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Digital Forensics</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/digital-forensics/</td>
+        <td>https://www.infosecurity-magazine.com/rss/digital-forensics/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Encryption</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/encryption/</td>
+        <td>https://www.infosecurity-magazine.com/rss/encryption/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Human Factor</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/human-factor/</td>
+        <td>https://www.infosecurity-magazine.com/rss/human-factor/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Identity Access Management</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/identity-access-management/</td>
+        <td>https://www.infosecurity-magazine.com/rss/identity-access-management/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Industry Announcements</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/industry-announcements/</td>
+        <td>https://www.infosecurity-magazine.com/rss/industry-announcements/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Internet Security</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/internet-security/</td>
+        <td>https://www.infosecurity-magazine.com/rss/internet-security/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Malware</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/malware/</td>
+        <td>https://www.infosecurity-magazine.com/rss/malware/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Managed Services</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/managed-services/</td>
+        <td>https://www.infosecurity-magazine.com/rss/managed-services/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Mobile Security</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/mobile-security/</td>
+        <td>https://www.infosecurity-magazine.com/rss/mobile-security/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Network Security</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/network-security/</td>
+        <td>https://www.infosecurity-magazine.com/rss/network-security/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Payment Security</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/payment-security/</td>
+        <td>https://www.infosecurity-magazine.com/rss/payment-security/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Physical and Information Security Convergence</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/physical-and-information-security-convergence/</td>
+        <td>https://www.infosecurity-magazine.com/rss/physical-and-information-security-convergence/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Privacy</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/privacy/</td>
+        <td>https://www.infosecurity-magazine.com/rss/privacy/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>Risk Management</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/risk-management/</td>
+        <td>https://www.infosecurity-magazine.com/rss/risk-management/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infosecurity Magazine</td>
+        <td>The Internet of Things</td>
+        <td>Media</td>
+        <td>https://www.infosecurity-magazine.com/the-internet-of-things/</td>
+        <td>https://www.infosecurity-magazine.com/rss/the-internet-of-things/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Security Affairs</td>
-        <td>Pierluigi Paganini, founder of Security Affairs and Cybaze SPA, ENISA ETL Group, Ethical Hacker, Researcher, Security Evangelist, Security Analyst.</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>http://securityaffairs.co</td>
         <td>https://securityaffairs.co/feed</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Security Online (Cyber Security)</td>
-        <td>Information security blog</td>
+        <td>Security Affairs</td>
+        <td>Cyber Crime</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/cyber-crime</td>
+        <td>https://securityaffairs.com/category/cyber-crime/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Cyber warfare</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/cyber-warfare-2</td>
+        <td>https://securityaffairs.com/category/cyber-warfare-2/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>APT</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/apt</td>
+        <td>https://securityaffairs.com/category/apt/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Data Breach</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/data-breach</td>
+        <td>https://securityaffairs.com/category/data-breach/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Deep Web</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/deep-web</td>
+        <td>https://securityaffairs.com/category/deep-web/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Digital ID</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/digital-id</td>
+        <td>https://securityaffairs.com/category/digital-id/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Hacking</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/hacking</td>
+        <td>https://securityaffairs.com/category/hacking/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Hacktivism</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/hacktivism</td>
+        <td>https://securityaffairs.com/category/hacktivism/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Intelligence</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/intelligence</td>
+        <td>https://securityaffairs.com/category/intelligence/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Internet of Things</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/iot</td>
+        <td>https://securityaffairs.com/category/iot/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Laws and regulations</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/laws-and-regulations</td>
+        <td>https://securityaffairs.com/category/laws-and-regulations/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Malware</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/malware</td>
+        <td>https://securityaffairs.com/category/malware/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Mobile</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/mobile-2</td>
+        <td>https://securityaffairs.com/category/mobile-2/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Reports</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/reports</td>
+        <td>https://securityaffairs.com/category/reports/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Security</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/security</td>
+        <td>https://securityaffairs.com/category/security/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Social Networks</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/social-networks</td>
+        <td>https://securityaffairs.com/category/social-networks/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>Terrorism</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/terrorism</td>
+        <td>https://securityaffairs.com/category/terrorism/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>ICS-SCADA</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/ics-scada</td>
+        <td>https://securityaffairs.com/category/ics-scada/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://securityonline.info</td>
+        <td>https://securityonline.info/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Cyber Security</td>
         <td>Media</td>
         <td>https://securityonline.info/category/news/cybersecurity/</td>
         <td>https://securityonline.info/category/news/cybersecurity/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Security Online (Malware Analysis)</td>
-        <td>Information security blog</td>
+        <td>Security Online</td>
+        <td>Data Leak</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/news/dataleak/</td>
+        <td>https://securityonline.info/category/news/dataleak/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Forensics</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/forensics/</td>
+        <td>https://securityonline.info/category/forensics/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Malware Analysis</td>
         <td>Media</td>
         <td>https://securityonline.info/category/malware-analysis/</td>
         <td>https://securityonline.info/category/malware-analysis/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Security Online (Malware)</td>
-        <td>Information security blog</td>
+        <td>Security Online</td>
+        <td>Malware Attack</td>
         <td>Media</td>
         <td>https://securityonline.info/category/news/malware/</td>
         <td>https://securityonline.info/category/news/malware/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Security Online (Vulnerabilities)</td>
-        <td>Information security blog</td>
+        <td>Security Online</td>
+        <td>Network PenTest</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Information Gathering</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/information-gathering/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/information-gathering/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Vulnerability Analysis</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/vulnerability-analysis/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/vulnerability-analysis/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Exploitation</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/exploitation/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/exploitation/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Metasploit</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/metasploit/</td>
+        <td>https://securityonline.info/category/penetration-testing/metasploit/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Post Exploitation</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/post-exploitation/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/post-exploitation/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Maintaining Access</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/maintaining-access/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/maintaining-access/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Password Attacks</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/password-attacks/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/password-attacks/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Sniffing &amp; Spoofing</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/sniffing-spoofing/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/sniffing-spoofing/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Smartphone PenTest</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/smartphone-pentest/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/smartphone-pentest/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Wireless</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/wireless/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/wireless/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Reverse Engineering</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/reverse-engineering/</td>
+        <td>https://securityonline.info/category/reverse-engineering/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Vulnerability</td>
         <td>Media</td>
         <td>https://securityonline.info/category/news/vulnerability/</td>
         <td>https://securityonline.info/category/news/vulnerability/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>SecurityWeek (all)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>Security Online</td>
+        <td>Web PenTest</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Web Information Gathering</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-information-gathering/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-information-gathering/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Web Vulnerability Analysis</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-vulnerability-analysis/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-vulnerability-analysis/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Web Exploitation</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-exploitation/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-exploitation/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Web Maintaining Access</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-maintaining-access/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-maintaining-access/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Reporting</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/reporting/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/reporting/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://www.securityweek.com/</td>
         <td>https://www.securityweek.com/feed/</td>
         <td>RSS</td>
-        <td>2024-02-21</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>SecurityWeek (Application Security)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/application-security/</td>
-        <td>https://www.securityweek.com/category/application-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (Cloud Security)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/cloud-security/</td>
-        <td>https://www.securityweek.com/category/cloud-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (Endpoint Security)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/endpoint-security/</td>
-        <td>https://www.securityweek.com/category/endpoint-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (ICS &amp; OT)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/ics-ot/</td>
-        <td>https://www.securityweek.com/category/ics-ot/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (IoT Security)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/iot-security/</td>
-        <td>https://www.securityweek.com/category/iot-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (Malware &amp; Threats)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/malware-cyber-threats/</td>
-        <td>https://www.securityweek.com/category/malware-cyber-threats/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (Mobile &amp; Wireless)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/mobile-wireless/</td>
-        <td>https://www.securityweek.com/category/mobile-wireless/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (Network Security)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/network-security/</td>
-        <td>https://www.securityweek.com/category/network-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-02-21</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek (Threat Intelligence)</td>
-        <td>Cybersecurity News, Insights &amp; Analysis</td>
+        <td>SecurityWeek</td>
+        <td>Threat Intelligence</td>
         <td>Media</td>
         <td>https://www.securityweek.com/category/threat-intelligence/</td>
         <td>https://www.securityweek.com/category/threat-intelligence/feed/</td>
         <td>RSS</td>
-        <td>2024-02-21</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>TechRepublic (security)</td>
-        <td>TechRepublic provides large resources for the online industry, such as blog articles, forums, technical papers and security data.</td>
+        <td>SecurityWeek</td>
+        <td>Malware &amp; Threats</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/malware-cyber-threats/</td>
+        <td>https://www.securityweek.com/category/malware-cyber-threats/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Cyberwarfare</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/cyberwarfare/</td>
+        <td>https://www.securityweek.com/category/cyberwarfare/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Cybercrime</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/cybercrime/</td>
+        <td>https://www.securityweek.com/category/cybercrime/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Data Breaches</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/data-breaches/</td>
+        <td>https://www.securityweek.com/category/data-breaches/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Fraud &amp; Identity Theft</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/fraud-identity-theft/</td>
+        <td>https://www.securityweek.com/category/fraud-identity-theft/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Nation-State</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/nation-state/</td>
+        <td>https://www.securityweek.com/category/nation-state/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Ransomware</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/ransomware/</td>
+        <td>https://www.securityweek.com/category/ransomware/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Vulnerabilities</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/vulnerabilities/</td>
+        <td>https://www.securityweek.com/category/vulnerabilities/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Threat Intelligence</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Incident Response</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/incident-response/</td>
+        <td>https://www.securityweek.com/category/incident-response/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Tracking &amp; Law Enforcement</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/tracking-law-enforcement/</td>
+        <td>https://www.securityweek.com/category/tracking-law-enforcement/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Application Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/application-security/</td>
+        <td>https://www.securityweek.com/category/application-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Cloud Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/cloud-security/</td>
+        <td>https://www.securityweek.com/category/cloud-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Endpoint Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/endpoint-security/</td>
+        <td>https://www.securityweek.com/category/endpoint-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Identity &amp; Access</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/identity-access/</td>
+        <td>https://www.securityweek.com/category/identity-access/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>IoT Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/iot-security/</td>
+        <td>https://www.securityweek.com/category/iot-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Mobile &amp; Wireless</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/mobile-wireless/</td>
+        <td>https://www.securityweek.com/category/mobile-wireless/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Network Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/network-security/</td>
+        <td>https://www.securityweek.com/category/network-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Risk Management</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/risk-management/</td>
+        <td>https://www.securityweek.com/category/risk-management/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Cyber Insurance</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/cyber-insurance/</td>
+        <td>https://www.securityweek.com/category/cyber-insurance/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Data Protection</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/data-protection/</td>
+        <td>https://www.securityweek.com/category/data-protection/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Privacy &amp; Compliance</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/privacy-compliance/</td>
+        <td>https://www.securityweek.com/category/privacy-compliance/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Supply Chain Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/supply-chain-security/</td>
+        <td>https://www.securityweek.com/category/supply-chain-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>ICS/OT</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/ics-ot/</td>
+        <td>https://www.securityweek.com/category/ics-ot/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Industrial Cybersecurity</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/ics-ot/</td>
+        <td>https://www.securityweek.com/category/ics-ot/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>TechRepublic</td>
+        <td>Security</td>
         <td>Media</td>
         <td>https://www.techrepublic.com/topic/security/</td>
         <td>http://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>The Cyber Express (Firewall Daily)</td>
-        <td>Trending Cybersecurity News, Updates, Magazine and More.</td>
+        <td>The Cyber Express</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://thecyberexpress.com/firewall-daily/</td>
-        <td>https://thecyberexpress.com/firewall-daily/feed</td>
+        <td>https://thecyberexpress.com/firewall-daily/feed/</td>
         <td>RSS</td>
-        <td>2023-12-01</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>The Cyber Express</td>
+        <td>Dark Web News</td>
+        <td>Media</td>
+        <td>https://thecyberexpress.com/firewall-daily/dark-web-news/</td>
+        <td>https://thecyberexpress.com/firewall-daily/dark-web-news/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>The Cyber Express</td>
+        <td>Data Breaches News</td>
+        <td>Media</td>
+        <td>https://thecyberexpress.com/firewall-daily/data-breaches-news/</td>
+        <td>https://thecyberexpress.com/firewall-daily/data-breaches-news/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>The Cyber Express</td>
+        <td>Hacker News</td>
+        <td>Media</td>
+        <td>https://thecyberexpress.com/firewall-daily/hacker-news/</td>
+        <td>https://thecyberexpress.com/firewall-daily/hacker-news/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>The Cyber Express</td>
+        <td>Ransomware News</td>
+        <td>Media</td>
+        <td>https://thecyberexpress.com/firewall-daily/ransomware-news/</td>
+        <td>https://thecyberexpress.com/firewall-daily/ransomware-news/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>The Cyber Express</td>
+        <td>Vulnerabilities</td>
+        <td>Media</td>
+        <td>https://thecyberexpress.com/firewall-daily/vulnerabilities/</td>
+        <td>https://thecyberexpress.com/firewall-daily/vulnerabilities/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>The Cyber Wire</td>
-        <td>The CyberWire is an independent voice delivering concise, accessible, and relevant cybersecurity news and cybersecurity podcasts to people all across the globe.</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://thecyberwire.com/</td>
         <td>https://thecyberwire.com/feeds/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>The Guardian (Data and computer security)</td>
-        <td>Articles published by The Guardian team.</td>
+        <td>The Guardian</td>
+        <td>Data and computer security</td>
         <td>Media</td>
         <td>https://www.theguardian.com/technology/data-computer-security</td>
         <td>https://www.theguardian.com/technology/data-computer-security/rss</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>The Hacker News</td>
-        <td>The Hacker News is the most trusted and popular cybersecurity publication for information security professionals seeking breaking news, actionable insights and analysis.</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://thehackernews.com/</td>
         <td>https://feeds.feedburner.com/TheHackersNews</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Threatpost</td>
-        <td>Threatpost, is an independent news site which is a leading source of information about IT and business security for hundreds of thousands of professionals. Frequency 27 posts / week.</td>
+        <td>ALL</td>
         <td>Media</td>
         <td>https://threatpost.com/</td>
         <td>https://threatpost.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>WIRED Security</td>
-        <td>WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation.</td>
+        <td>Threatpost</td>
+        <td>Malware</td>
+        <td>Media</td>
+        <td>https://threatpost.com/category/malware-2/</td>
+        <td>https://threatpost.com/category/malware-2/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Threatpost</td>
+        <td>Vulnerabilities</td>
+        <td>Media</td>
+        <td>https://threatpost.com/category/vulnerabilities/</td>
+        <td>https://threatpost.com/category/vulnerabilities/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Vice</td>
+        <td>Motherboard Tech</td>
+        <td>Media</td>
+        <td>https://www.vice.com/en_us/section/tech</td>
+        <td>https://www.vice.com/en_us/rss/section/tech</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>WIRED</td>
+        <td>Security</td>
         <td>Media</td>
         <td>https://www.wired.com/category/security/</td>
         <td>https://www.wired.com/feed/category/security/latest/rss</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>ZDNet (security)</td>
-        <td>Let&#39;s face it. Software has holes. And hackers love to exploit them. New vulnerabilities appear almost daily. If you have software - we all do - you need to keep tabs on the latest vulnerabilities.</td>
+        <td>ZDNet</td>
+        <td>Security</td>
         <td>Media</td>
         <td>https://www.zdnet.com/topic/security/</td>
         <td>https://www.zdnet.com/topic/security/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>360 CERT</td>
-        <td>360 Computer Emergency Readiness Team</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://cert.360.cn/</td>
         <td>https://cert.360.cn/feed</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>ANY.RUN (History)</td>
-        <td>Cybersecurity Blog covers topics for experienced professionals as well as for those new to it.</td>
-        <td>Vendor</td>
-        <td>https://any.run/cybersecurity-blog/category/history/</td>
-        <td>https://any.run/cybersecurity-blog/category/history/feed/</td>
-        <td>RSS</td>
-        <td>2023-11-24</td>
-    </tr>
-    <tr>
-        <td>ANY.RUN (Malware Analysis)</td>
-        <td>Cybersecurity Blog covers topics for experienced professionals as well as for those new to it.</td>
-        <td>Vendor</td>
-        <td>https://any.run/cybersecurity-blog/category/malware-analysis/</td>
-        <td>https://any.run/cybersecurity-blog/category/malware-analysis/feed/</td>
-        <td>RSS</td>
-        <td>2023-11-24</td>
-    </tr>
-    <tr>
-        <td>ASEC BLOG</td>
-        <td>AhnLab</td>
+        <td>AhnLab Security Intelligence Center</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://asec.ahnlab.com/en/</td>
         <td>https://asec.ahnlab.com/en/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>AT&amp;T Cybersecurity (Alienvault research)</td>
-        <td>The most recent posts from across the AT&amp;T Cybersecurity blogs.</td>
+        <td>AhnLab Security Intelligence Center</td>
+        <td>Malware</td>
+        <td>Vendor</td>
+        <td>https://asec.ahnlab.com/en/category/malware-information-en/</td>
+        <td>https://asec.ahnlab.com/en/category/malware-information-en/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>AhnLab Security Intelligence Center</td>
+        <td>Detection</td>
+        <td>Vendor</td>
+        <td>https://asec.ahnlab.com/en/category/detection-en/</td>
+        <td>https://asec.ahnlab.com/en/category/detection-en/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>ANY.RUN</td>
+        <td>History</td>
+        <td>Vendor</td>
+        <td>https://any.run/cybersecurity-blog/category/history/</td>
+        <td>https://any.run/cybersecurity-blog/category/history/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>ANY.RUN</td>
+        <td>Malware Analysis</td>
+        <td>Vendor</td>
+        <td>https://any.run/cybersecurity-blog/category/malware-analysis/</td>
+        <td>https://any.run/cybersecurity-blog/category/malware-analysis/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>AT&amp;T Cybersecurity</td>
+        <td>Alienvault research</td>
         <td>Vendor</td>
         <td>https://cybersecurity.att.com/blogs/labs-research</td>
         <td>https://cybersecurity.att.com/site/blog-all-rss</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Bitdefender Labs</td>
-        <td>Bitdefender Labs discovers 400 new threats each minute and validates 30 billion threat queries daily.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.bitdefender.com/blog/labs/</td>
         <td>https://www.bitdefender.com/blog/api/rss/labs/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Black Hills (Blue Team)</td>
-        <td>At Black Hills Information Security (BHIS), we strive to strengthen our customers’ information security infrastructure and employees through penetration testing, consulting, and defensive security services.</td>
+        <td>Black Hills</td>
+        <td>Blue Team</td>
         <td>Vendor</td>
         <td>https://www.blackhillsinfosec.com/category/blue-team/</td>
         <td>https://www.blackhillsinfosec.com/category/blue-team/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
-    </tr>
-    <tr>
-        <td>Bolster AI (Research)</td>
-        <td></td>
-        <td>Vendor</td>
-        <td>https://bolster.ai/tag/research/</td>
-        <td>https://bolster.ai/tag/research/feed</td>
-        <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>BRANDEFENSE Blog</td>
-        <td>Security news, Blog, Ransomware Analysis&lt;</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://brandefense.io/blog/</td>
         <td>https://brandefense.io/blog/rss/</td>
         <td>RSS</td>
-        <td>2023-11-23</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Broadcom Symantec blogs (Threat Intelligence)</td>
-        <td>Symantec Enterprise Blog</td>
+        <td>Broadcom Symantec blogs</td>
+        <td>Threat Intelligence</td>
         <td>Vendor</td>
         <td>https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence</td>
         <td>https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Cado Security</td>
-        <td>Cloud Forensics and Incident Response</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.cadosecurity.com/blog/</td>
         <td>https://www.cadosecurity.com/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Checkmarx</td>
-        <td>Checkmarx empowers organizations to develop and release more secure software faster.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://medium.com/checkmarx-security</td>
         <td>https://medium.com/feed/checkmarx-security</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Checkpoint</td>
-        <td>Checkpoint research blog</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://research.checkpoint.com/</td>
         <td>https://research.checkpoint.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Cisco Talos Intelligence Group</td>
-        <td>Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world, comprised of world-class researchers, analysts and engineers.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://blog.talosintelligence.com/</td>
         <td>http://feeds.feedburner.com/feedburner/Talos</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Cloudflare Security Blog</td>
-        <td>Post tagged with security on the Cloudflare Blog</td>
+        <td>Cloudflare</td>
+        <td>Security Blog</td>
         <td>Vendor</td>
         <td>https://blog.cloudflare.com/tag/security/</td>
         <td>https://blog.cloudflare.com/tag/security/rss</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Cofense Intelligence</td>
-        <td>Cofense Phishing Prevention &amp; Email Security Blog</td>
+        <td>Lab Notes</td>
         <td>Vendor</td>
-        <td>https://cofense.com/blog/category/internet-security-awarenessphishing/</td>
-        <td>https://cofense.com/blog/category/internet-security-awarenessphishing/feed/</td>
+        <td>https://cofense.com/blog/category/lab-notes/</td>
+        <td>https://cofense.com/blog/category/lab-notes/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Crowdstrike (Threat Research)</td>
-        <td>Reports from the threat research team at Crowdstrike.</td>
+        <td>Cofense Intelligence</td>
+        <td>Phishing Email Insights</td>
+        <td>Vendor</td>
+        <td>https://cofense.com/blog/category/phishing-email-insights/</td>
+        <td>https://cofense.com/blog/category/phishing-email-insights/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cofense Intelligence</td>
+        <td>Threat Intelligence Insights</td>
+        <td>Vendor</td>
+        <td>https://cofense.com/blog/category/threat-intelligence-insights/</td>
+        <td>https://cofense.com/blog/category/threat-intelligence-insights/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Crowdstrike</td>
+        <td>Threat Research</td>
         <td>Vendor</td>
         <td>https://www.crowdstrike.com/blog/category/threat-intel-research/</td>
         <td>https://www.crowdstrike.com/blog/category/threat-intel-research/feed</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Cyble</td>
-        <td>Cyble Research and Intelligence (CRIL) Blogs</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://cyble.com/blog/</td>
         <td>https://cyble.com/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Dell SecureWorks (Research &amp; Intelligence)</td>
-        <td>Dell SecureWorks is able to help enterprises achieve these goals by delivering a tightly integrated suite of Managed Security Services.</td>
+        <td>Dell SecureWorks</td>
+        <td>Research &amp; Intelligence</td>
         <td>Vendor</td>
         <td>https://www.secureworks.com/blog/subject/research-intelligence</td>
         <td>https://www.secureworks.com/rss?feed=blog&amp;category=research-intelligence</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Doctor Web news</td>
-        <td>Real-time threat news</td>
+        <td>Doctor Web</td>
+        <td>Real-time Threat News</td>
         <td>Vendor</td>
-        <td>https://news.drweb.com/list/?c=23&amp;lng=en</td>
+        <td>https://news.drweb.com/list/?c=23</td>
         <td>https://news.drweb.com/rss/get/?c=23</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Doctor Web</td>
+        <td>Virus Reviews</td>
+        <td>Vendor</td>
+        <td>https://news.drweb.com/all/?c=10</td>
+        <td>https://news.drweb.com/rss/get/?c=10</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Doctor Web</td>
+        <td>Mobile Threats</td>
+        <td>Vendor</td>
+        <td>https://news.drweb.com/all/?c=38</td>
+        <td>https://news.drweb.com/rss/get/?c=38</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>DomainTools</td>
-        <td>Innovative, Practical Advice to Improve your Cybersecurity Posture</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.domaintools.com/resources/blog</td>
         <td>https://www.domaintools.com/resources/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>EclecticIQ</td>
-        <td>EclecticIQ Fusion Center delivers thematic intelligence bundles, which provide you with a curated single source of relevant cyber threat intelligence.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://blog.eclecticiq.com/</td>
         <td>https://blog.eclecticiq.com/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Fortinet (threat research)</td>
-        <td>FortiGuard Labs is the threat intelligence and research organization at Fortinet.</td>
+        <td>Fortinet</td>
+        <td>Threat Research</td>
         <td>Vendor</td>
         <td>https://www.fortinet.com/blog/threat-research</td>
         <td>https://feeds.fortinet.com/fortinet/blog/threat-research&amp;x=1</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Fox-IT International blog</td>
-        <td>We make the invisible visible.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://blog.fox-it.com</td>
         <td>https://blog.fox-it.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>GitHub Security Lab Archives</td>
-        <td>Updates, ideas, and inspiration from GitHub to help developers build and design software.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://github.blog/tag/github-security-lab/</td>
         <td>https://github.blog/tag/github-security-lab/feed/</td>
         <td>ATOM</td>
-        <td>2023-11-22</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Google Online Security</td>
-        <td>The latest news and insights from Google on security and safety on the Internet.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://security.googleblog.com/</td>
         <td>http://feeds.feedburner.com/GoogleOnlineSecurityBlog</td>
         <td>ATOM</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Google Project Zero</td>
-        <td>Formed in 2014, Project Zero is a team of security researchers at Google who study zero-day vulnerabilities in the hardware and software systems that are depended upon by users around the world.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://googleprojectzero.blogspot.com/</td>
         <td>https://googleprojectzero.blogspot.com/feeds/posts/default</td>
         <td>ATOM</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>HackerOne</td>
-        <td>We partner with the global hacker community to surface the most relevant security issues of our customers before they can be exploited by criminals.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.hackerone.com/blog</td>
         <td>https://www.hackerone.com/blog.rss</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Heimdal (Threat Center)</td>
-        <td>A blog about all things internet security</td>
+        <td>Heimdal</td>
+        <td>Threat Center</td>
         <td>Vendor</td>
         <td>https://heimdalsecurity.com/blog/category/threat-center/</td>
         <td>https://heimdalsecurity.com/blog/category/threat-center/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Heimdal (Vulnerability)</td>
-        <td>A blog about all things internet security</td>
+        <td>Heimdal</td>
+        <td>Vulnerability</td>
         <td>Vendor</td>
         <td>https://heimdalsecurity.com/blog/category/vulnerability/</td>
         <td>https://heimdalsecurity.com/blog/category/vulnerability/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>IBM Security Intelligence</td>
-        <td>Analysis and insights from hundreds of the brightest minds in the cybersecurity industry to help you prove compliance, grow business and stop threats.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://securityintelligence.com/</td>
         <td>https://securityintelligence.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Infoblox (Threat Intel)</td>
-        <td>Next Level Networking</td>
+        <td>Infoblox</td>
+        <td>Cyber Threat Intelligence</td>
         <td>Vendor</td>
         <td>https://blogs.infoblox.com/category/cyber-threat-intelligence/</td>
         <td>https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Intezer (research)</td>
-        <td>The AI model is broken. Too many alerts and threats missed while attackers keep innovating. Intezer is leveling this uneven playing field by preventing attackers from reusing code and hurting their ROI.</td>
+        <td>Intezer</td>
+        <td>Research</td>
         <td>Vendor</td>
         <td>https://intezer.com/blog/research</td>
         <td>https://intezer.com/blog/research/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Malwarebytes Labs</td>
-        <td>Here at Malwarebytes, we believe that when you’re free from threats, you’re free to thrive.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://blog.malwarebytes.com/</td>
         <td>https://blog.malwarebytes.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Mandiant All Blog Listing</td>
-        <td>Cyber Defense &amp; Threat Intelligence Resources</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.mandiant.com/resources/blog/</td>
         <td>https://www.mandiant.com/resources/blog/rss.xml</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Microsoft Security Blog</td>
-        <td>Microsoft Security helps protect people and data against cyberthreats to give you peace of mind.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.microsoft.com/security/blog/</td>
         <td>https://www.microsoft.com/security/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Microsoft Security Response Center</td>
-        <td>The Microsoft Security Response Center is part of the defender community and on the front line of security response evolution.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://msrc-blog.microsoft.com/</td>
         <td>https://msrc-blog.microsoft.com/feed/report/list/?feed_uuid=3d89d939-f28f-459d-8313-6268c9955fc7</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Morphisec Breach Prevention Blog</td>
-        <td>Cybersecurity trends and news, with info about Morphisec, breach prevention, and zero trust endpoint, server, and workload security.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://blog.morphisec.com/</td>
         <td>https://blog.morphisec.com/rss.xml</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Naked Security (Sophos)</td>
-        <td>Computer security news, opinion, advice and research from anti-virus experts Sophos.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://nakedsecurity.sophos.com/</td>
         <td>https://nakedsecurity.sophos.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>PaloAlto Networks Unit 42</td>
-        <td>Unit 42 is the global threat intelligence team at Palo Alto Networks and a recognized authority on cyberthreats, frequently sought out by enterprises and government agencies around the world.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://unit42.paloaltonetworks.com/</td>
         <td>http://feeds.feedburner.com/Unit42</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Proofpoint</td>
-        <td>Proofpoint gives you protection and visibility for your greatest cybersecurity risk—your people.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.proofpoint.com/uk/blog</td>
         <td>https://www.proofpoint.com/us/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Pulsedive</td>
-        <td>Pulsedive is a community threat intelligence platform that collects rich context on known threats and performs scans on IPs, domains, and URLs from IOC feeds and user submissions.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://blog.pulsedive.com/</td>
         <td>https://blog.pulsedive.com/rss/</td>
         <td>RSS</td>
-        <td>2023-11-19</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Qualys Blog (Threat Research)</td>
-        <td>Learn more about Qualys and industry best practices.</td>
+        <td>Qualys Blog</td>
+        <td>Threat Research</td>
         <td>Vendor</td>
         <td>https://blog.qualys.com/vulnerabilities-threat-research</td>
         <td>https://blog.qualys.com/vulnerabilities-threat-research/feed</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Quick Heal Antivirus (Threat Research)</td>
-        <td>Simplify the way you secure your computer. We Protect millions of users and business networks worldwide from all kinds of Internet threats.</td>
+        <td>Quick Heal Antivirus</td>
+        <td>Threat Research</td>
         <td>Vendor</td>
         <td>https://blogs.quickheal.com/author/threat-research-labs/</td>
         <td>https://blogs.quickheal.com/author/threat-research-labs/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Recorded Future</td>
-        <td>Our aim is ambitious: to organize and analyze threat data in an entirely new and different way for better, faster security.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.recordedfuture.com/</td>
         <td>https://www.recordedfuture.com/feed</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Reliaquest (Threat Hunting)</td>
-        <td>Make Security Possible</td>
+        <td>Reliaquest</td>
+        <td>Threat Hunting</td>
         <td>Vendor</td>
         <td>https://www.reliaquest.com/blog/category/threat-hunting/</td>
         <td>https://www.reliaquest.com/blog/category/threat-hunting/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Reliaquest (Threat Intelligence)</td>
-        <td>Make Security Possible</td>
+        <td>Reliaquest</td>
+        <td>Threat Intelligence</td>
         <td>Vendor</td>
         <td>https://www.reliaquest.com/blog/category/threat-intelligence/</td>
         <td>https://www.reliaquest.com/blog/category/threat-intelligence/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>SecureList (Kaspersky)</td>
-        <td>Kaspersky’s cyberthreat research and reports</td>
+        <td>SecureList by Kaspersky</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://securelist.com/</td>
         <td>https://securelist.com/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Security Lit</td>
-        <td>Stories by Security Lit Limited</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://securitylit.medium.com/</td>
         <td>https://securitylit.medium.com/feed</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>SensePost (Orange)</td>
-        <td>SensePost is an ethical hacking team of Orange Cyberdefense.</td>
+        <td>SensePost by Orange Cyberdefense</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://sensepost.com/blog</td>
         <td>https://sensepost.com/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>SentinelOne</td>
-        <td>Next Generation Endpoint Security</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.sentinelone.com/blog/</td>
         <td>https://www.sentinelone.com/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>SentinelOne Labs</td>
-        <td>SentinelLabs is an open venue for our threat researchers and vetted contributors to reliably share their latest findings with a wider community of defenders.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.sentinelone.com/labs/</td>
         <td>https://www.sentinelone.com/labs/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>seqrite</td>
-        <td>Blogs on Information Technology, Network &amp; Cybersecurity</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.seqrite.com/blog/</td>
         <td>https://www.seqrite.com/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Sequoia (Threat Intel Research)</td>
-        <td>One view. Total control.</td>
+        <td>Sequoia</td>
+        <td>Threat Intel Research</td>
         <td>Vendor</td>
         <td>https://blog.sekoia.io/category/research-threat-intelligence/</td>
         <td>https://blog.sekoia.io/category/research-threat-intelligence/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>SOC Prime</td>
-        <td>SOC Prime is the platform to advance your cyber security analytics. Our mission is to reduce the cyber breach risk for business of any size everywhere.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://socprime.com/blog/</td>
         <td>https://socprime.com/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Sophos (Threat Research)</td>
-        <td>The Sophos Blog</td>
+        <td>Sophos</td>
+        <td>Threat Research</td>
         <td>Vendor</td>
         <td>https://news.sophos.com/en-us/category/threat-research/</td>
         <td>https://news.sophos.com/en-us/category/threat-research/feed/</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>SpecterOps Blog</td>
-        <td>Posts from SpecterOps team members on various topics relating information security</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://posts.specterops.io/</td>
         <td>https://posts.specterops.io/feed</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Team Cymru</td>
-        <td>Dragon News Blog</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.team-cymru.com/blog</td>
         <td>https://www.team-cymru.com/blog-feed.xml</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>The Record</td>
-        <td>The Record by Recorded Future gives you exclusive, behind-the-scenes access to leaders, policymakers, researchers, and the people in the shadows of the cyber underground.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://therecord.media/</td>
         <td>https://therecord.media/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Trustwave SpiderLabs Blog</td>
-        <td>The security community&amp;#39;s go-to destination for technical breakdowns of the latest threats, critical vulnerability disclosures and cutting-edge research</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog</td>
         <td>https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rss.xml</td>
         <td>RSS</td>
-        <td>2023-11-15</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>UpGuard Blog (breaches)</td>
-        <td>Cybersecurity &amp; Risk Management Blog</td>
+        <td>UpGuard Blog</td>
+        <td>Breaches</td>
         <td>Vendor</td>
         <td>https://www.upguard.com/breaches</td>
         <td>https://www.upguard.com/breaches/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>UpGuard Blog (news)</td>
-        <td>Cybersecurity &amp; Risk Management Blog</td>
+        <td>UpGuard Blog</td>
+        <td>News</td>
         <td>Vendor</td>
         <td>https://www.upguard.com/news</td>
         <td>https://www.upguard.com/news/rss.xml</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>VirusTotal Blog</td>
-        <td>VirusTotal Blog</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://blog.virustotal.com/</td>
         <td>https://blog.virustotal.com/feeds/posts/default</td>
         <td>ATOM</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Volexity</td>
-        <td>Volexity was founded on the belief that the future of cybersecurity will depend on the industry’s ability to master the data found in volatile memory.</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.volexity.com/blog/</td>
         <td>https://www.volexity.com/blog/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>We Live Security (ESET)</td>
-        <td>Award-winning news, views, and insight from the ESET security community</td>
+        <td>We Live Security by ESET</td>
+        <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.welivesecurity.com/en/about-eset-research</td>
         <td>https://www.welivesecurity.com/en/rss/feed/</td>
         <td>RSS</td>
-        <td>2023-08-07</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Zimperium (Threat Research)</td>
-        <td>Zimperium is the only mobile security platform purpose-built for enterprise, securing both mobile devices and applications so they can securely access data.</td>
+        <td>Zimperium</td>
+        <td>Threat Research</td>
         <td>Vendor</td>
         <td>https://www.zimperium.com/blog-category/threat-research/</td>
         <td>https://www.zimperium.com/blog-category/threat-research/feed/</td>
         <td>RSS</td>
-        <td>2023-12-08</td>
+        <td>2024-04-03</td>
     </tr>
 </table>
 
 ## Miscellaneous
 
-### Google Sheets version
-
-[You can get a copy of the above table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
+### Google Sheets -> Table
 
 To generate the above HTML styled table, [I use this spreadsheet to HTML convertor](https://tableconvert.com/excel-to-html).
 
@@ -1270,6 +2899,10 @@ In some cases, blog categories have their own feeds so don't forget to check the
 
 ### Dealing with blogs with no feeds
 
+There are a ton of security blogs that don't offer RSS or ATOM feeds. I understand why (namely, concerns over copywrite), but don't necessarily agree with the reasons why.
+
+Why?
+
 There are tons of services that will create feeds from websites, Google; "create rss feed for a website".
 
 For example; https://rss.app/
@@ -1280,7 +2913,7 @@ I can't recommend any, but on cursory testing they appear to pretty good at crea
 
 Feel free to [contribute](CONTRIBUTING.md).
 
-## Questions and complaints...
+## Join the community
 
 [Join the Signals Corps community](https://community.signalscorps.com/).
 
