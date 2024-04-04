@@ -2094,6 +2094,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>TechCrunch</td>
+        <td>Security</td>
+        <td>Media</td>
+        <td>https://techcrunch.com/category/security/</td>
+        <td>https://techcrunch.com/category/security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-04</td>
+    </tr>
+    <tr>
         <td>TechRepublic</td>
         <td>Security</td>
         <td>Media</td>
