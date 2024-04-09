@@ -2877,6 +2877,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>WIZ</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.wiz.io/blog</td>
+        <td>https://www.wiz.io/feed/rss.xml</td>
+        <td>RSS</td>
+        <td>2024-04-09</td>
+    </tr>
+    <tr>
         <td>Zimperium</td>
         <td>Threat Research</td>
         <td>Vendor</td>
@@ -2888,10 +2897,6 @@ This list is now very long. [You can get a more manageable copy of the following
 </table>
 
 ## Miscellaneous
-
-### Google Sheets -> Table
-
-To generate the above HTML styled table, [I use this spreadsheet to HTML convertor](https://tableconvert.com/excel-to-html).
 
 ### Finding feed URLs
 
@@ -2924,7 +2929,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 ## Join the community
 
-[Join the Signals Corps community](https://community.signalscorps.com/).
+[Join the DOGESEC community](https://community.dogesec.com/).
 
 ## License
 
