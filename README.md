@@ -2877,13 +2877,22 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>WIZ</td>
+        <td>WIZ Blog</td>
         <td>ALL</td>
         <td>Vendor</td>
         <td>https://www.wiz.io/blog</td>
         <td>https://www.wiz.io/feed/rss.xml</td>
         <td>RSS</td>
         <td>2024-04-09</td>
+    </tr>
+    <tr>
+        <td>WIZ Cloud Threat Landscape</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://threats.wiz.io/</td>
+        <td>https://fetchrss.com/rss/65b0eb775582bd1c19083c4365b0fdb664898a0daa63bef4.xml</td>
+        <td>RSS</td>
+        <td>2024-04-21</td>
     </tr>
     <tr>
         <td>Zimperium</td>
@@ -2919,7 +2928,7 @@ Why?
 
 There are tons of services that will create feeds from websites, Google; "create rss feed for a website".
 
-For example; https://rss.app/
+For example; https://rss.app/, https://fetchrss.com/, are just a few examples.
 
 I can't recommend any, but on cursory testing they appear to pretty good at creating live feeds for blogs and Twitter feeds.
 
