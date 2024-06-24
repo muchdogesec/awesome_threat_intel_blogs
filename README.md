@@ -978,6 +978,42 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>GBHackers</td>
+        <td>Threats</td>
+        <td>Media</td>
+        <td>https://gbhackers.com/category/threatsattacks/</td>
+        <td>https://gbhackers.com/category/threatsattacks/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>GBHackers</td>
+        <td>Vulnerabilities</td>
+        <td>Media</td>
+        <td>https://gbhackers.com/category/vulnerability-android-2/</td>
+        <td>https://gbhackers.com/category/vulnerability-android-2/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>GBHackers</td>
+        <td>Data Breach</td>
+        <td>Media</td>
+        <td>https://gbhackers.com/category/data-breach/</td>
+        <td>https://gbhackers.com/category/data-breach/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>GBHackers</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://gbhackers.com/</td>
+        <td>https://gbhackers.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
         <td>Graham Cluley</td>
         <td>ALL</td>
         <td>Media</td>
@@ -1048,6 +1084,42 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://grahamcluley.com/category/spam/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Hacker Combat</td>
+        <td>Malware</td>
+        <td>Media</td>
+        <td>https://www.hackercombat.com/category/malware-attacks/</td>
+        <td>https://www.hackercombat.com/category/malware-attacks/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>Hacker Combat</td>
+        <td>Hacks</td>
+        <td>Media</td>
+        <td>https://www.hackercombat.com/category/hacks/</td>
+        <td>https://www.hackercombat.com/category/hacks/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>Hacker Combat</td>
+        <td>Ransomware</td>
+        <td>Media</td>
+        <td>https://www.hackercombat.com/category/ransomware/</td>
+        <td>https://www.hackercombat.com/category/ransomware/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>Hacker Combat</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://www.hackercombat.com</td>
+        <td>https://www.hackercombat.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
     </tr>
     <tr>
         <td>HACKMAGEDDON</td>
@@ -1626,6 +1698,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Security Boulevard</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://securityboulevard.com/</td>
+        <td>https://securityboulevard.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
         <td>Security Online</td>
         <td>ALL</td>
         <td>Media</td>
@@ -2193,6 +2274,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>The Security Ledger</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://securityledger.com/</td>
+        <td>https://feeds.feedblitz.com/thesecurityledger&amp;x=1</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
         <td>Threatpost</td>
         <td>ALL</td>
         <td>Media</td>
@@ -2605,6 +2695,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://www.mandiant.com/resources/blog/rss.xml</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>McAfee Labs</td>
+        <td>Labs</td>
+        <td>Vendor</td>
+        <td>https://www.mcafee.com/blogs/other-blogs/mcafee-labs/</td>
+        <td>https://www.mcafee.com/blogs/other-blogs/mcafee-labs/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
     </tr>
     <tr>
         <td>Microsoft Security Blog</td>
