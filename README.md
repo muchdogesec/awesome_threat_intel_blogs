@@ -2742,6 +2742,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Outpost24</td>
+        <td>Research &amp; Threat Intelligence</td>
+        <td>Vendor</td>
+        <td>https://outpost24.com/blog/category/research-and-threat-intel/</td>
+        <td>https://outpost24.com/blog/category/research-and-threat-intel/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-08</td>
+    </tr>
+    <tr>
         <td>PaloAlto Networks Unit 42</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2812,6 +2821,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://www.reliaquest.com/blog/category/threat-intelligence/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>RST Cloud</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://medium.com/@rst_cloud</td>
+        <td>https://medium.com/@rst_cloud/feed</td>
+        <td>RSS</td>
+        <td>2024-04-08</td>
     </tr>
     <tr>
         <td>SecureList by Kaspersky</td>
