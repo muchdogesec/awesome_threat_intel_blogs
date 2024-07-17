@@ -2940,6 +2940,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Threatmon</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://threatmon.io/blog/</td>
+        <td>https://threatmon.io/blog/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-17</td>
+    </tr>
+    <tr>
         <td>Trustwave SpiderLabs Blog</td>
         <td>ALL</td>
         <td>Vendor</td>
