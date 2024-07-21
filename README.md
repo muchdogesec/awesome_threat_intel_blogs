@@ -6,7 +6,7 @@ This list is now very long. [You can get a more manageable copy of the following
 
 <table>
     <tr>
-        <td>Blog</td>
+        <td>Blog Name</td>
         <td>Blog Category</td>
         <td>Type</td>
         <td>Blog Link</td>
@@ -789,6 +789,24 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Reddit</td>
+        <td>/r/blueteamsec/</td>
+        <td>Community</td>
+        <td>https://www.reddit.com/r/blueteamsec/</td>
+        <td>https://www.reddit.com/r/blueteamsec/.rss</td>
+        <td>ATOM</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>Reddit</td>
+        <td>/r/InfoSecNews/</td>
+        <td>Community</td>
+        <td>https://www.reddit.com/r/InfoSecNews/</td>
+        <td>https://www.reddit.com/r/InfoSecNews/.rss</td>
+        <td>ATOM</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
         <td>Zero Day Initiative</td>
         <td>Blog</td>
         <td>Community</td>
@@ -967,6 +985,42 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://cybersecuritynews.com/category/cyber-ai/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyberscoop</td>
+        <td>Threats</td>
+        <td>Media</td>
+        <td>https://cyberscoop.com/news/threats/</td>
+        <td>https://cyberscoop.com/news/threats/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>Cyberscoop</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://cyberscoop.com/</td>
+        <td>https://cyberscoop.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>Cyberscoop</td>
+        <td>Research</td>
+        <td>Media</td>
+        <td>https://cyberscoop.com/news/research/</td>
+        <td>https://cyberscoop.com/news/research/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>Cyberscoop</td>
+        <td>Cyber Crime</td>
+        <td>Media</td>
+        <td>https://cyberscoop.com/news/threats/cybercrime/</td>
+        <td>https://cyberscoop.com/news/threats/cybercrime/feed</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
     </tr>
     <tr>
         <td>Dark Reading</td>
@@ -2929,6 +2983,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://www.team-cymru.com/blog-feed.xml</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Tenable</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.tenable.com/blog/</td>
+        <td>https://www.tenable.com/blog/feed</td>
+        <td>ATOM</td>
+        <td>2024-07-21</td>
     </tr>
     <tr>
         <td>The Record</td>
