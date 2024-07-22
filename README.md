@@ -6,15 +6,6 @@ This list is now very long. [You can get a more manageable copy of the following
 
 <table>
     <tr>
-        <td>Blog Name</td>
-        <td>Blog Category</td>
-        <td>Type</td>
-        <td>Blog Link</td>
-        <td>Feed Link</td>
-        <td>Feed Type</td>
-        <td>Last checked</td>
-    </tr>
-    <tr>
         <td>0xToxin</td>
         <td>ALL</td>
         <td>Analyst</td>
@@ -772,24 +763,6 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Reddit</td>
-        <td>/r/cybersecurity</td>
-        <td>Community</td>
-        <td>https://www.reddit.com/r/cybersecurity/</td>
-        <td>https://www.reddit.com/r/cybersecurity/.rss</td>
-        <td>ATOM</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Reddit</td>
-        <td>/r/netsec</td>
-        <td>Community</td>
-        <td>http://www.reddit.com/r/netsec/</td>
-        <td>http://www.reddit.com/r/netsec/.rss</td>
-        <td>ATOM</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Reddit</td>
         <td>/r/blueteamsec/</td>
         <td>Community</td>
         <td>https://www.reddit.com/r/blueteamsec/</td>
@@ -805,6 +778,24 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://www.reddit.com/r/InfoSecNews/.rss</td>
         <td>ATOM</td>
         <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>Reddit</td>
+        <td>/r/cybersecurity</td>
+        <td>Community</td>
+        <td>https://www.reddit.com/r/cybersecurity/</td>
+        <td>https://www.reddit.com/r/cybersecurity/.rss</td>
+        <td>ATOM</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Reddit</td>
+        <td>/r/netsec</td>
+        <td>Community</td>
+        <td>http://www.reddit.com/r/netsec/</td>
+        <td>http://www.reddit.com/r/netsec/.rss</td>
+        <td>ATOM</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Zero Day Initiative</td>
@@ -2991,6 +2982,51 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://www.tenable.com/blog/</td>
         <td>https://www.tenable.com/blog/feed</td>
         <td>ATOM</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>The Record</td>
+        <td>Leadership</td>
+        <td>Vendor</td>
+        <td>https://therecord.media/news/leadership</td>
+        <td>https://therecord.media/news/leadership/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>The Record</td>
+        <td>Cyber Crime</td>
+        <td>Vendor</td>
+        <td>https://therecord.media/news/cybercrime</td>
+        <td>https://therecord.media/news/cybercrime/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>The Record</td>
+        <td>Nation State</td>
+        <td>Vendor</td>
+        <td>https://therecord.media/news/nation-state</td>
+        <td>https://therecord.media/news/nation-state/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>The Record</td>
+        <td>Elections</td>
+        <td>Vendor</td>
+        <td>https://therecord.media/news/elections</td>
+        <td>https://therecord.media/news/elections/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>The Record</td>
+        <td>Technology</td>
+        <td>Vendor</td>
+        <td>https://therecord.media/news/technology</td>
+        <td>https://therecord.media/news/technology/feed/</td>
+        <td>RSS</td>
         <td>2024-07-21</td>
     </tr>
     <tr>
