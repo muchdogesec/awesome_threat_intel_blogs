@@ -978,6 +978,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Group IB</td>
+        <td>Threat Research</td>
+        <td>Media</td>
+        <td>https://www.group-ib.com/blog/</td>
+        <td>https://blog.group-ib.com/rss.xml</td>
+        <td>RSS</td>
+        <td>2024-08-16</td>
+    </tr>
+    <tr>
         <td>Hacker Combat</td>
         <td>Malware</td>
         <td>Media</td>
