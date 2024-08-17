@@ -981,7 +981,7 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Group IB</td>
         <td>Threat Research</td>
         <td>Media</td>
-        <td>https://www.group-ib.com/blog//</td>
+        <td>https://www.group-ib.com/blog/</td>
         <td>https://blog.group-ib.com/rss.xml</td>
         <td>RSS</td>
         <td>2024-08-16</td>
