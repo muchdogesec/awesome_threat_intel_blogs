@@ -2637,7 +2637,7 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>eCrime.ch</td>
         <td>ALL</td>
         <td>Vendor</td>
-        <td>https://ecrime.ch/app/login.php?path=</td>
+        <td>https://ecrime.ch/newsletter.php</td>
         <td>https://ecrime.ch/app/intel-news.php?rss</td>
         <td>RSS</td>
         <td>2024-08-22</td>
