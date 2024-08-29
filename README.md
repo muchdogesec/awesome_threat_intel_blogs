@@ -2427,6 +2427,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Analyst1</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://analyst1.com/category/blog/</td>
+        <td>https://analyst1.com/category/blog/feed/</td>
+        <td>RSS</td>
+        <td>2024-08-29</td>
+    </tr>
+    <tr>
         <td>ANY.RUN</td>
         <td>History</td>
         <td>Vendor</td>
