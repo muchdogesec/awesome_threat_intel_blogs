@@ -43,46 +43,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>bellingcat</td>
+        <td>Africa</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/africa/</td>
+        <td>https://www.bellingcat.com/category/africa/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
         <td>ALL</td>
         <td>Analyst</td>
         <td>https://www.bellingcat.com/</td>
         <td>https://www.bellingcat.com/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>bellingcat</td>
-        <td>Investigations</td>
-        <td>Analyst</td>
-        <td>https://www.bellingcat.com/category/news/</td>
-        <td>https://www.bellingcat.com/category/news/feed</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>bellingcat</td>
-        <td>Uncategorized</td>
-        <td>Analyst</td>
-        <td>https://www.bellingcat.com/category/uncategorized/</td>
-        <td>https://www.bellingcat.com/category/uncategorized/feed</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>bellingcat</td>
-        <td>Middle East &amp; North Africa</td>
-        <td>Analyst</td>
-        <td>https://www.bellingcat.com/category/mena/</td>
-        <td>https://www.bellingcat.com/category/mena/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>bellingcat</td>
-        <td>UK &amp; Europe</td>
-        <td>Analyst</td>
-        <td>https://www.bellingcat.com/category/uk-and-europe/</td>
-        <td>https://www.bellingcat.com/category/uk-and-europe/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -97,6 +70,24 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>bellingcat</td>
+        <td>Investigations</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/news/</td>
+        <td>https://www.bellingcat.com/category/news/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>Middle East &amp; North Africa</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/mena/</td>
+        <td>https://www.bellingcat.com/category/mena/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
         <td>Rest of World</td>
         <td>Analyst</td>
         <td>https://www.bellingcat.com/category/rest-of-world/</td>
@@ -106,10 +97,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>bellingcat</td>
-        <td>Africa</td>
+        <td>UK &amp; Europe</td>
         <td>Analyst</td>
-        <td>https://www.bellingcat.com/category/africa/</td>
-        <td>https://www.bellingcat.com/category/africa/feed/</td>
+        <td>https://www.bellingcat.com/category/uk-and-europe/</td>
+        <td>https://www.bellingcat.com/category/uk-and-europe/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>bellingcat</td>
+        <td>Uncategorized</td>
+        <td>Analyst</td>
+        <td>https://www.bellingcat.com/category/uncategorized/</td>
+        <td>https://www.bellingcat.com/category/uncategorized/feed</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -150,13 +150,13 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Darknet</td>
+        <td>Cybercrime Diaries</td>
         <td>ALL</td>
         <td>Analyst</td>
-        <td>http://www.darknet.org.uk/</td>
-        <td>http://www.darknet.org.uk/feed/</td>
+        <td>https://www.cybercrimediaries.com/</td>
+        <td>https://www.cybercrimediaries.com/blog-feed.xml</td>
         <td>RSS</td>
-        <td>2024-04-03</td>
+        <td>2024-09-02</td>
     </tr>
     <tr>
         <td>Darknet</td>
@@ -164,6 +164,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Analyst</td>
         <td>https://www.darknet.org.uk/category/advertorial/</td>
         <td>https://www.darknet.org.uk/category/advertorial/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Darknet</td>
+        <td>ALL</td>
+        <td>Analyst</td>
+        <td>http://www.darknet.org.uk/</td>
+        <td>http://www.darknet.org.uk/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -430,19 +439,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Krebs on Security</td>
-        <td>ALL</td>
+        <td>A Little Sunshine</td>
         <td>Analyst</td>
-        <td>https://krebsonsecurity.com/</td>
-        <td>http://krebsonsecurity.com/feed/</td>
+        <td>https://krebsonsecurity.com/category/sunshine/</td>
+        <td>https://krebsonsecurity.com/category/sunshine/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Krebs on Security</td>
-        <td>A Little Sunshine</td>
+        <td>ALL</td>
         <td>Analyst</td>
-        <td>https://krebsonsecurity.com/category/sunshine/</td>
-        <td>https://krebsonsecurity.com/category/sunshine/feed/</td>
+        <td>https://krebsonsecurity.com/</td>
+        <td>http://krebsonsecurity.com/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -736,19 +745,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Troy Hunt</td>
-        <td>Security</td>
+        <td>Scam</td>
         <td>Analyst</td>
-        <td>https://www.troyhunt.com/tag/security/</td>
-        <td>https://www.troyhunt.com/tag/security/rss/</td>
+        <td>https://www.troyhunt.com/tag/scam/</td>
+        <td>https://www.troyhunt.com/tag/scam/rss/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Troy Hunt</td>
-        <td>Scam</td>
+        <td>Security</td>
         <td>Analyst</td>
-        <td>https://www.troyhunt.com/tag/scam/</td>
-        <td>https://www.troyhunt.com/tag/scam/rss/</td>
+        <td>https://www.troyhunt.com/tag/security/</td>
+        <td>https://www.troyhunt.com/tag/security/rss/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -781,21 +790,21 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Reddit</td>
-        <td>/r/InfoSecNews/</td>
-        <td>Community</td>
-        <td>https://www.reddit.com/r/InfoSecNews/</td>
-        <td>https://www.reddit.com/r/InfoSecNews/.rss</td>
-        <td>ATOM</td>
-        <td>2024-07-21</td>
-    </tr>
-    <tr>
-        <td>Reddit</td>
         <td>/r/cybersecurity</td>
         <td>Community</td>
         <td>https://www.reddit.com/r/cybersecurity/</td>
         <td>https://www.reddit.com/r/cybersecurity/.rss</td>
         <td>ATOM</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Reddit</td>
+        <td>/r/InfoSecNews/</td>
+        <td>Community</td>
+        <td>https://www.reddit.com/r/InfoSecNews/</td>
+        <td>https://www.reddit.com/r/InfoSecNews/.rss</td>
+        <td>ATOM</td>
+        <td>2024-07-21</td>
     </tr>
     <tr>
         <td>Reddit</td>
@@ -853,19 +862,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>NCSC (UK)</td>
-        <td>Reports</td>
+        <td>News</td>
         <td>Government</td>
         <td>https://www.ncsc.gov.uk/information/rss-feeds</td>
-        <td>https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml</td>
+        <td>https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>NCSC (UK)</td>
-        <td>News</td>
+        <td>Reports</td>
         <td>Government</td>
         <td>https://www.ncsc.gov.uk/information/rss-feeds</td>
-        <td>https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml</td>
+        <td>https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -934,10 +943,10 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Cyber Security News</td>
-        <td>Threats</td>
+        <td>Cyber AI</td>
         <td>Media</td>
-        <td>https://cybersecuritynews.com/category/threats/</td>
-        <td>https://cybersecuritynews.com/category/threats/feed/</td>
+        <td>https://cybersecuritynews.com/category/cyber-ai/</td>
+        <td>https://cybersecuritynews.com/category/cyber-ai/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -947,6 +956,24 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Media</td>
         <td>https://cybersecuritynews.com/category/cyber-attack/</td>
         <td>https://cybersecuritynews.com/category/cyber-attack/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyber Security News</td>
+        <td>Data Breaches</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/data-breaches/</td>
+        <td>https://cybersecuritynews.com/category/data-breaches/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cyber Security News</td>
+        <td>Threats</td>
+        <td>Media</td>
+        <td>https://cybersecuritynews.com/category/threats/</td>
+        <td>https://cybersecuritynews.com/category/threats/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -969,38 +996,20 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Cyber Security News</td>
-        <td>Data Breaches</td>
-        <td>Media</td>
-        <td>https://cybersecuritynews.com/category/data-breaches/</td>
-        <td>https://cybersecuritynews.com/category/data-breaches/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Cyber Security News</td>
-        <td>Cyber AI</td>
-        <td>Media</td>
-        <td>https://cybersecuritynews.com/category/cyber-ai/</td>
-        <td>https://cybersecuritynews.com/category/cyber-ai/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Cyberscoop</td>
-        <td>Threats</td>
-        <td>Media</td>
-        <td>https://cyberscoop.com/news/threats/</td>
-        <td>https://cyberscoop.com/news/threats/feed/</td>
-        <td>RSS</td>
-        <td>2024-07-21</td>
-    </tr>
-    <tr>
         <td>Cyberscoop</td>
         <td>ALL</td>
         <td>Media</td>
         <td>https://cyberscoop.com/</td>
         <td>https://cyberscoop.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>Cyberscoop</td>
+        <td>Cyber Crime</td>
+        <td>Media</td>
+        <td>https://cyberscoop.com/news/threats/cybercrime/</td>
+        <td>https://cyberscoop.com/news/threats/cybercrime/feed</td>
         <td>RSS</td>
         <td>2024-07-21</td>
     </tr>
@@ -1015,10 +1024,10 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Cyberscoop</td>
-        <td>Cyber Crime</td>
+        <td>Threats</td>
         <td>Media</td>
-        <td>https://cyberscoop.com/news/threats/cybercrime/</td>
-        <td>https://cyberscoop.com/news/threats/cybercrime/feed</td>
+        <td>https://cyberscoop.com/news/threats/</td>
+        <td>https://cyberscoop.com/news/threats/feed/</td>
         <td>RSS</td>
         <td>2024-07-21</td>
     </tr>
@@ -1030,6 +1039,24 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://www.darkreading.com/rss.xml</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>GBHackers</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://gbhackers.com/</td>
+        <td>https://gbhackers.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>GBHackers</td>
+        <td>Data Breach</td>
+        <td>Media</td>
+        <td>https://gbhackers.com/category/data-breach/</td>
+        <td>https://gbhackers.com/category/data-breach/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-24</td>
     </tr>
     <tr>
         <td>GBHackers</td>
@@ -1050,38 +1077,11 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-06-24</td>
     </tr>
     <tr>
-        <td>GBHackers</td>
-        <td>Data Breach</td>
-        <td>Media</td>
-        <td>https://gbhackers.com/category/data-breach/</td>
-        <td>https://gbhackers.com/category/data-breach/feed/</td>
-        <td>RSS</td>
-        <td>2024-06-24</td>
-    </tr>
-    <tr>
-        <td>GBHackers</td>
-        <td>ALL</td>
-        <td>Media</td>
-        <td>https://gbhackers.com/</td>
-        <td>https://gbhackers.com/feed/</td>
-        <td>RSS</td>
-        <td>2024-06-24</td>
-    </tr>
-    <tr>
         <td>Graham Cluley</td>
         <td>ALL</td>
         <td>Media</td>
         <td>https://www.grahamcluley.com/</td>
         <td>https://www.grahamcluley.com/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Graham Cluley</td>
-        <td>Malware</td>
-        <td>Media</td>
-        <td>https://grahamcluley.com/category/security-threats/malware/</td>
-        <td>https://grahamcluley.com/category/security-threats/malware/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1096,19 +1096,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Graham Cluley</td>
-        <td>Ransomware</td>
+        <td>Law &amp; Order</td>
         <td>Media</td>
-        <td>https://grahamcluley.com/category/security-threats/ransomware-malware/</td>
-        <td>https://grahamcluley.com/category/security-threats/ransomware-malware/feed/</td>
+        <td>https://grahamcluley.com/category/law-order/</td>
+        <td>https://grahamcluley.com/category/law-order/feed</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Graham Cluley</td>
-        <td>Law &amp; Order</td>
+        <td>Malware</td>
         <td>Media</td>
-        <td>https://grahamcluley.com/category/law-order/</td>
-        <td>https://grahamcluley.com/category/law-order/feed</td>
+        <td>https://grahamcluley.com/category/security-threats/malware/</td>
+        <td>https://grahamcluley.com/category/security-threats/malware/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1132,6 +1132,15 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Graham Cluley</td>
+        <td>Ransomware</td>
+        <td>Media</td>
+        <td>https://grahamcluley.com/category/security-threats/ransomware-malware/</td>
+        <td>https://grahamcluley.com/category/security-threats/ransomware-malware/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Graham Cluley</td>
         <td>Spam</td>
         <td>Media</td>
         <td>https://grahamcluley.com/category/spam/</td>
@@ -1141,10 +1150,10 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Hacker Combat</td>
-        <td>Malware</td>
+        <td>ALL</td>
         <td>Media</td>
-        <td>https://www.hackercombat.com/category/malware-attacks/</td>
-        <td>https://www.hackercombat.com/category/malware-attacks/feed/</td>
+        <td>https://www.hackercombat.com</td>
+        <td>https://www.hackercombat.com/feed/</td>
         <td>RSS</td>
         <td>2024-06-24</td>
     </tr>
@@ -1159,19 +1168,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Hacker Combat</td>
-        <td>Ransomware</td>
+        <td>Malware</td>
         <td>Media</td>
-        <td>https://www.hackercombat.com/category/ransomware/</td>
-        <td>https://www.hackercombat.com/category/ransomware/feed/</td>
+        <td>https://www.hackercombat.com/category/malware-attacks/</td>
+        <td>https://www.hackercombat.com/category/malware-attacks/feed/</td>
         <td>RSS</td>
         <td>2024-06-24</td>
     </tr>
     <tr>
         <td>Hacker Combat</td>
-        <td>ALL</td>
+        <td>Ransomware</td>
         <td>Media</td>
-        <td>https://www.hackercombat.com</td>
-        <td>https://www.hackercombat.com/feed/</td>
+        <td>https://www.hackercombat.com/category/ransomware/</td>
+        <td>https://www.hackercombat.com/category/ransomware/feed/</td>
         <td>RSS</td>
         <td>2024-06-24</td>
     </tr>
@@ -1195,6 +1204,78 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>HackRead</td>
+        <td>Anonymous</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/hacking-news/anonymous/</td>
+        <td>https://www.hackread.com/hacking-news/anonymous/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Artificial Intelligence</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/artificial-intelligence/</td>
+        <td>https://www.hackread.com/artificial-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Blockchain</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/blockchain/</td>
+        <td>https://www.hackread.com/blockchain/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Censorship</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/cyber-events/censorship/</td>
+        <td>https://www.hackread.com/cyber-events/censorship/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Cryptocurrency</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/cryptocurrency/</td>
+        <td>https://www.hackread.com/cryptocurrency/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Cyber Attacks</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/</td>
+        <td>https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Cyber Crime</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/latest-cyber-crime/</td>
+        <td>https://www.hackread.com/latest-cyber-crime/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Drones</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/surveillance/drones/</td>
+        <td>https://www.hackread.com/surveillance/drones/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
         <td>Hacking News</td>
         <td>Media</td>
         <td>https://www.hackread.com/hacking-news/</td>
@@ -1213,28 +1294,28 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>HackRead</td>
-        <td>WikiLeaks</td>
+        <td>Machine Learning</td>
         <td>Media</td>
-        <td>https://www.hackread.com/hacking-news/wikileaks-affairs/</td>
-        <td>https://www.hackread.com/hacking-news/wikileaks-affairs/feed/</td>
+        <td>https://www.hackread.com/artificial-intelligence/machine-learning/</td>
+        <td>https://www.hackread.com/artificial-intelligence/machine-learning/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>HackRead</td>
-        <td>Anonymous</td>
+        <td>Malware</td>
         <td>Media</td>
-        <td>https://www.hackread.com/hacking-news/anonymous/</td>
-        <td>https://www.hackread.com/hacking-news/anonymous/feed/</td>
+        <td>https://www.hackread.com/security/malware/</td>
+        <td>https://www.hackread.com/security/malware/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>HackRead</td>
-        <td>Cyber Crime</td>
+        <td>NSA</td>
         <td>Media</td>
-        <td>https://www.hackread.com/latest-cyber-crime/</td>
-        <td>https://www.hackread.com/latest-cyber-crime/feed/</td>
+        <td>https://www.hackread.com/surveillance/nsa/</td>
+        <td>https://www.hackread.com/surveillance/nsa/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1244,6 +1325,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Media</td>
         <td>https://www.hackread.com/latest-cyber-crime/phishing-scam/</td>
         <td>https://www.hackread.com/latest-cyber-crime/phishing-scam/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>HackRead</td>
+        <td>Privacy</td>
+        <td>Media</td>
+        <td>https://www.hackread.com/surveillance/privacy/</td>
+        <td>https://www.hackread.com/surveillance/privacy/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1267,51 +1357,6 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>HackRead</td>
-        <td>Malware</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/security/malware/</td>
-        <td>https://www.hackread.com/security/malware/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>Censorship</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/cyber-events/censorship/</td>
-        <td>https://www.hackread.com/cyber-events/censorship/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>Cyber Attacks</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/</td>
-        <td>https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>Cryptocurrency</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/cryptocurrency/</td>
-        <td>https://www.hackread.com/cryptocurrency/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>Blockchain</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/blockchain/</td>
-        <td>https://www.hackread.com/blockchain/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
         <td>Surveillance</td>
         <td>Media</td>
         <td>https://www.hackread.com/surveillance/</td>
@@ -1321,46 +1366,10 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>HackRead</td>
-        <td>Drones</td>
+        <td>WikiLeaks</td>
         <td>Media</td>
-        <td>https://www.hackread.com/surveillance/drones/</td>
-        <td>https://www.hackread.com/surveillance/drones/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>NSA</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/surveillance/nsa/</td>
-        <td>https://www.hackread.com/surveillance/nsa/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>Privacy</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/surveillance/privacy/</td>
-        <td>https://www.hackread.com/surveillance/privacy/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>Artificial Intelligence</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/artificial-intelligence/</td>
-        <td>https://www.hackread.com/artificial-intelligence/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>HackRead</td>
-        <td>Machine Learning</td>
-        <td>Media</td>
-        <td>https://www.hackread.com/artificial-intelligence/machine-learning/</td>
-        <td>https://www.hackread.com/artificial-intelligence/machine-learning/feed/</td>
+        <td>https://www.hackread.com/hacking-news/wikileaks-affairs/</td>
+        <td>https://www.hackread.com/hacking-news/wikileaks-affairs/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1591,6 +1600,15 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Affairs</td>
+        <td>APT</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/apt</td>
+        <td>https://securityaffairs.com/category/apt/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
         <td>Cyber Crime</td>
         <td>Media</td>
         <td>https://securityaffairs.com/category/cyber-crime</td>
@@ -1604,15 +1622,6 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Media</td>
         <td>https://securityaffairs.com/category/cyber-warfare-2</td>
         <td>https://securityaffairs.com/category/cyber-warfare-2/feed</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Affairs</td>
-        <td>APT</td>
-        <td>Media</td>
-        <td>https://securityaffairs.com/category/apt</td>
-        <td>https://securityaffairs.com/category/apt/feed</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1658,6 +1667,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Media</td>
         <td>https://securityaffairs.com/category/hacktivism</td>
         <td>https://securityaffairs.com/category/hacktivism/feed</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Affairs</td>
+        <td>ICS-SCADA</td>
+        <td>Media</td>
+        <td>https://securityaffairs.com/category/ics-scada</td>
+        <td>https://securityaffairs.com/category/ics-scada/feed</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1743,15 +1761,6 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Security Affairs</td>
-        <td>ICS-SCADA</td>
-        <td>Media</td>
-        <td>https://securityaffairs.com/category/ics-scada</td>
-        <td>https://securityaffairs.com/category/ics-scada/feed</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
         <td>Security Boulevard</td>
         <td>ALL</td>
         <td>Media</td>
@@ -1789,10 +1798,37 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
+        <td>Exploitation</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/exploitation/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/exploitation/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
         <td>Forensics</td>
         <td>Media</td>
         <td>https://securityonline.info/category/forensics/</td>
         <td>https://securityonline.info/category/forensics/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Information Gathering</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/information-gathering/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/information-gathering/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Maintaining Access</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/maintaining-access/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/maintaining-access/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1816,42 +1852,6 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
-        <td>Network PenTest</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
-        <td>Information Gathering</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/information-gathering/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/information-gathering/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
-        <td>Vulnerability Analysis</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/vulnerability-analysis/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/vulnerability-analysis/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
-        <td>Exploitation</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/exploitation/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/exploitation/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
         <td>Metasploit</td>
         <td>Media</td>
         <td>https://securityonline.info/category/penetration-testing/metasploit/</td>
@@ -1861,19 +1861,10 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
-        <td>Post Exploitation</td>
+        <td>Network PenTest</td>
         <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/post-exploitation/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/post-exploitation/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
-        <td>Maintaining Access</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/maintaining-access/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/maintaining-access/feed/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1888,28 +1879,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
-        <td>Sniffing &amp; Spoofing</td>
+        <td>Post Exploitation</td>
         <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/sniffing-spoofing/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/sniffing-spoofing/feed/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/post-exploitation/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/post-exploitation/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Security Online</td>
-        <td>Smartphone PenTest</td>
+        <td>Reporting</td>
         <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/smartphone-pentest/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/smartphone-pentest/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
-        <td>Wireless</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/wireless/</td>
-        <td>https://securityonline.info/category/penetration-testing/network-pentest/wireless/feed/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/reporting/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/reporting/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1924,6 +1906,24 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
+        <td>Smartphone PenTest</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/smartphone-pentest/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/smartphone-pentest/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Sniffing &amp; Spoofing</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/sniffing-spoofing/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/sniffing-spoofing/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
         <td>Vulnerability</td>
         <td>Media</td>
         <td>https://securityonline.info/category/news/vulnerability/</td>
@@ -1933,28 +1933,10 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
-        <td>Web PenTest</td>
+        <td>Vulnerability Analysis</td>
         <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
-        <td>Web Information Gathering</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-information-gathering/</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-information-gathering/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Security Online</td>
-        <td>Web Vulnerability Analysis</td>
-        <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-vulnerability-analysis/</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-vulnerability-analysis/feed/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/vulnerability-analysis/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/vulnerability-analysis/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1969,6 +1951,15 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
+        <td>Web Information Gathering</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-information-gathering/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-information-gathering/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
         <td>Web Maintaining Access</td>
         <td>Media</td>
         <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-maintaining-access/</td>
@@ -1978,10 +1969,28 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Security Online</td>
-        <td>Reporting</td>
+        <td>Web PenTest</td>
         <td>Media</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/reporting/</td>
-        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/reporting/feed/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Web Vulnerability Analysis</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-vulnerability-analysis/</td>
+        <td>https://securityonline.info/category/penetration-testing/webapp-pentest/web-vulnerability-analysis/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Security Online</td>
+        <td>Wireless</td>
+        <td>Media</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/wireless/</td>
+        <td>https://securityonline.info/category/penetration-testing/network-pentest/wireless/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1991,114 +2000,6 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Media</td>
         <td>https://www.securityweek.com/</td>
         <td>https://www.securityweek.com/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Threat Intelligence</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/threat-intelligence/</td>
-        <td>https://www.securityweek.com/category/threat-intelligence/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Malware &amp; Threats</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/malware-cyber-threats/</td>
-        <td>https://www.securityweek.com/category/malware-cyber-threats/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Cyberwarfare</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/cyberwarfare/</td>
-        <td>https://www.securityweek.com/category/cyberwarfare/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Cybercrime</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/cybercrime/</td>
-        <td>https://www.securityweek.com/category/cybercrime/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Data Breaches</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/data-breaches/</td>
-        <td>https://www.securityweek.com/category/data-breaches/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Fraud &amp; Identity Theft</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/fraud-identity-theft/</td>
-        <td>https://www.securityweek.com/category/fraud-identity-theft/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Nation-State</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/nation-state/</td>
-        <td>https://www.securityweek.com/category/nation-state/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Ransomware</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/ransomware/</td>
-        <td>https://www.securityweek.com/category/ransomware/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Vulnerabilities</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/vulnerabilities/</td>
-        <td>https://www.securityweek.com/category/vulnerabilities/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Threat Intelligence</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/threat-intelligence/</td>
-        <td>https://www.securityweek.com/category/threat-intelligence/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Incident Response</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/incident-response/</td>
-        <td>https://www.securityweek.com/category/incident-response/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Tracking &amp; Law Enforcement</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/tracking-law-enforcement/</td>
-        <td>https://www.securityweek.com/category/tracking-law-enforcement/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -2122,64 +2023,37 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>SecurityWeek</td>
-        <td>Endpoint Security</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/endpoint-security/</td>
-        <td>https://www.securityweek.com/category/endpoint-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Identity &amp; Access</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/identity-access/</td>
-        <td>https://www.securityweek.com/category/identity-access/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>IoT Security</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/iot-security/</td>
-        <td>https://www.securityweek.com/category/iot-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Mobile &amp; Wireless</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/mobile-wireless/</td>
-        <td>https://www.securityweek.com/category/mobile-wireless/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Network Security</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/network-security/</td>
-        <td>https://www.securityweek.com/category/network-security/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
-        <td>Risk Management</td>
-        <td>Media</td>
-        <td>https://www.securityweek.com/category/risk-management/</td>
-        <td>https://www.securityweek.com/category/risk-management/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>SecurityWeek</td>
         <td>Cyber Insurance</td>
         <td>Media</td>
         <td>https://www.securityweek.com/category/cyber-insurance/</td>
         <td>https://www.securityweek.com/category/cyber-insurance/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Cybercrime</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/cybercrime/</td>
+        <td>https://www.securityweek.com/category/cybercrime/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Cyberwarfare</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/cyberwarfare/</td>
+        <td>https://www.securityweek.com/category/cyberwarfare/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Data Breaches</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/data-breaches/</td>
+        <td>https://www.securityweek.com/category/data-breaches/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -2194,19 +2068,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>SecurityWeek</td>
-        <td>Privacy &amp; Compliance</td>
+        <td>Endpoint Security</td>
         <td>Media</td>
-        <td>https://www.securityweek.com/category/privacy-compliance/</td>
-        <td>https://www.securityweek.com/category/privacy-compliance/feed/</td>
+        <td>https://www.securityweek.com/category/endpoint-security/</td>
+        <td>https://www.securityweek.com/category/endpoint-security/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>SecurityWeek</td>
-        <td>Supply Chain Security</td>
+        <td>Fraud &amp; Identity Theft</td>
         <td>Media</td>
-        <td>https://www.securityweek.com/category/supply-chain-security/</td>
-        <td>https://www.securityweek.com/category/supply-chain-security/feed/</td>
+        <td>https://www.securityweek.com/category/fraud-identity-theft/</td>
+        <td>https://www.securityweek.com/category/fraud-identity-theft/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -2221,10 +2095,145 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>SecurityWeek</td>
+        <td>Identity &amp; Access</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/identity-access/</td>
+        <td>https://www.securityweek.com/category/identity-access/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Incident Response</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/incident-response/</td>
+        <td>https://www.securityweek.com/category/incident-response/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
         <td>Industrial Cybersecurity</td>
         <td>Media</td>
         <td>https://www.securityweek.com/category/ics-ot/</td>
         <td>https://www.securityweek.com/category/ics-ot/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>IoT Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/iot-security/</td>
+        <td>https://www.securityweek.com/category/iot-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Malware &amp; Threats</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/malware-cyber-threats/</td>
+        <td>https://www.securityweek.com/category/malware-cyber-threats/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Mobile &amp; Wireless</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/mobile-wireless/</td>
+        <td>https://www.securityweek.com/category/mobile-wireless/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Nation-State</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/nation-state/</td>
+        <td>https://www.securityweek.com/category/nation-state/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Network Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/network-security/</td>
+        <td>https://www.securityweek.com/category/network-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Privacy &amp; Compliance</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/privacy-compliance/</td>
+        <td>https://www.securityweek.com/category/privacy-compliance/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Ransomware</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/ransomware/</td>
+        <td>https://www.securityweek.com/category/ransomware/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Risk Management</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/risk-management/</td>
+        <td>https://www.securityweek.com/category/risk-management/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Supply Chain Security</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/supply-chain-security/</td>
+        <td>https://www.securityweek.com/category/supply-chain-security/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Threat Intelligence</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Threat Intelligence</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/</td>
+        <td>https://www.securityweek.com/category/threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Tracking &amp; Law Enforcement</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/tracking-law-enforcement/</td>
+        <td>https://www.securityweek.com/category/tracking-law-enforcement/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SecurityWeek</td>
+        <td>Vulnerabilities</td>
+        <td>Media</td>
+        <td>https://www.securityweek.com/category/vulnerabilities/</td>
+        <td>https://www.securityweek.com/category/vulnerabilities/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -2410,19 +2419,19 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>AhnLab Security Intelligence Center</td>
-        <td>Malware</td>
+        <td>Detection</td>
         <td>Vendor</td>
-        <td>https://asec.ahnlab.com/en/category/malware-information-en/</td>
-        <td>https://asec.ahnlab.com/en/category/malware-information-en/feed/</td>
+        <td>https://asec.ahnlab.com/en/category/detection-en/</td>
+        <td>https://asec.ahnlab.com/en/category/detection-en/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
     <tr>
         <td>AhnLab Security Intelligence Center</td>
-        <td>Detection</td>
+        <td>Malware</td>
         <td>Vendor</td>
-        <td>https://asec.ahnlab.com/en/category/detection-en/</td>
-        <td>https://asec.ahnlab.com/en/category/detection-en/feed/</td>
+        <td>https://asec.ahnlab.com/en/category/malware-information-en/</td>
+        <td>https://asec.ahnlab.com/en/category/malware-information-en/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -2599,6 +2608,15 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>Doctor Web</td>
+        <td>Mobile Threats</td>
+        <td>Vendor</td>
+        <td>https://news.drweb.com/all/?c=38</td>
+        <td>https://news.drweb.com/rss/get/?c=38</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Doctor Web</td>
         <td>Real-time Threat News</td>
         <td>Vendor</td>
         <td>https://news.drweb.com/list/?c=23</td>
@@ -2612,15 +2630,6 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Vendor</td>
         <td>https://news.drweb.com/all/?c=10</td>
         <td>https://news.drweb.com/rss/get/?c=10</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Doctor Web</td>
-        <td>Mobile Threats</td>
-        <td>Vendor</td>
-        <td>https://news.drweb.com/all/?c=38</td>
-        <td>https://news.drweb.com/rss/get/?c=38</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -3031,12 +3040,12 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>The Record</td>
-        <td>Leadership</td>
+        <td>ALL</td>
         <td>Vendor</td>
-        <td>https://therecord.media/news/leadership</td>
-        <td>https://therecord.media/news/leadership/feed/</td>
+        <td>https://therecord.media/</td>
+        <td>https://therecord.media/feed/</td>
         <td>RSS</td>
-        <td>2024-07-21</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>The Record</td>
@@ -3044,15 +3053,6 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>Vendor</td>
         <td>https://therecord.media/news/cybercrime</td>
         <td>https://therecord.media/news/cybercrime/feed/</td>
-        <td>RSS</td>
-        <td>2024-07-21</td>
-    </tr>
-    <tr>
-        <td>The Record</td>
-        <td>Nation State</td>
-        <td>Vendor</td>
-        <td>https://therecord.media/news/nation-state</td>
-        <td>https://therecord.media/news/nation-state/feed/</td>
         <td>RSS</td>
         <td>2024-07-21</td>
     </tr>
@@ -3067,21 +3067,30 @@ This list is now very long. [You can get a more manageable copy of the following
     </tr>
     <tr>
         <td>The Record</td>
+        <td>Leadership</td>
+        <td>Vendor</td>
+        <td>https://therecord.media/news/leadership</td>
+        <td>https://therecord.media/news/leadership/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>The Record</td>
+        <td>Nation State</td>
+        <td>Vendor</td>
+        <td>https://therecord.media/news/nation-state</td>
+        <td>https://therecord.media/news/nation-state/feed/</td>
+        <td>RSS</td>
+        <td>2024-07-21</td>
+    </tr>
+    <tr>
+        <td>The Record</td>
         <td>Technology</td>
         <td>Vendor</td>
         <td>https://therecord.media/news/technology</td>
         <td>https://therecord.media/news/technology/feed/</td>
         <td>RSS</td>
         <td>2024-07-21</td>
-    </tr>
-    <tr>
-        <td>The Record</td>
-        <td>ALL</td>
-        <td>Vendor</td>
-        <td>https://therecord.media/</td>
-        <td>https://therecord.media/feed/</td>
-        <td>RSS</td>
-        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Threatmon</td>
