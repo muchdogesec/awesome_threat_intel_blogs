@@ -2,7 +2,7 @@
 
 A curated list of blogs posting threat intel we build for [Obstracts, the blog feed reader for cyber-security teams](https://www.obstracts.com/).
 
-This list is now very long. [You can get a more manageable copy of the following table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
+[You can find a copy of the following table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
 
 <table>
     <tr>
@@ -697,6 +697,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://outflux.net/blog/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Public Cloud Security Breaches</td>
+        <td>All</td>
+        <td>Analyst</td>
+        <td>https://www.breaches.cloud/index.html</td>
+        <td>https://www.breaches.cloud/index.xml</td>
+        <td>ATOM</td>
+        <td>2024-11-07</td>
     </tr>
     <tr>
         <td>Schneier on Security</td>
@@ -3172,6 +3181,15 @@ This list is now very long. [You can get a more manageable copy of the following
         <td>https://fetchrss.com/rss/65b0eb775582bd1c19083c4365b0fdb664898a0daa63bef4.xml</td>
         <td>RSS</td>
         <td>2024-04-21</td>
+    </tr>
+    <tr>
+        <td>Zimperium</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.zimperium.com/blog/</td>
+        <td>https://www.zimperium.com/blog/feed/</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
     </tr>
     <tr>
         <td>Zimperium</td>
