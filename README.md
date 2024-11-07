@@ -1,6 +1,6 @@
 # Awesome Threat Intel Blogs
 
-A curated list of blogs posting threat intel.
+A curated list of blogs posting threat intel we build for [Obstracts, the blog feed reader for cyber-security teams](https://www.obstracts.com/).
 
 This list is now very long. [You can get a more manageable copy of the following table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
 
