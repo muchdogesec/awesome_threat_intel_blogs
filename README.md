@@ -2996,13 +2996,22 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Sequoia</td>
+        <td>Sekoia</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://blog.sekoia.io/</td>
+        <td>https://blog.sekoia.io/feed/</td>
+        <td>RSS</td>
+        <td>2024-11-19</td>
+    </tr>
+    <tr>
+        <td>Sekoia</td>
         <td>Threat Intel Research</td>
         <td>Vendor</td>
         <td>https://blog.sekoia.io/category/research-threat-intelligence/</td>
         <td>https://blog.sekoia.io/category/research-threat-intelligence/feed/</td>
         <td>RSS</td>
-        <td>2024-04-03</td>
+        <td>2024-11-19</td>
     </tr>
     <tr>
         <td>SOC Prime</td>
