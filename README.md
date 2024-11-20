@@ -2789,6 +2789,24 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>KnowBe4</td>
+        <td>Ransomware</td>
+        <td>Vendor</td>
+        <td>https://blog.knowbe4.com/topic/ransomware</td>
+        <td>https://blog.knowbe4.com/topic/ransomware/rss.xml</td>
+        <td>RSS</td>
+        <td>2024-11-20</td>
+    </tr>
+    <tr>
+        <td>KnowBe4</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://blog.knowbe4.com/</td>
+        <td>https://blog.knowbe4.com/rss.xml</td>
+        <td>RSS</td>
+        <td>2024-11-20</td>
+    </tr>
+    <tr>
         <td>Malwarebytes Labs</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2960,6 +2978,24 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Sekoia</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://blog.sekoia.io/</td>
+        <td>https://blog.sekoia.io/feed/</td>
+        <td>RSS</td>
+        <td>2024-11-19</td>
+    </tr>
+    <tr>
+        <td>Sekoia</td>
+        <td>Threat Intel Research</td>
+        <td>Vendor</td>
+        <td>https://blog.sekoia.io/category/research-threat-intelligence/</td>
+        <td>https://blog.sekoia.io/category/research-threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-11-19</td>
+    </tr>
+    <tr>
         <td>SensePost by Orange Cyberdefense</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2994,24 +3030,6 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://www.seqrite.com/blog/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Sekoia</td>
-        <td>ALL</td>
-        <td>Vendor</td>
-        <td>https://blog.sekoia.io/</td>
-        <td>https://blog.sekoia.io/feed/</td>
-        <td>RSS</td>
-        <td>2024-11-19</td>
-    </tr>
-    <tr>
-        <td>Sekoia</td>
-        <td>Threat Intel Research</td>
-        <td>Vendor</td>
-        <td>https://blog.sekoia.io/category/research-threat-intelligence/</td>
-        <td>https://blog.sekoia.io/category/research-threat-intelligence/feed/</td>
-        <td>RSS</td>
-        <td>2024-11-19</td>
     </tr>
     <tr>
         <td>SOC Prime</td>
