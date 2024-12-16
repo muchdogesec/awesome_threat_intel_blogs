@@ -2609,6 +2609,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Datadog Security Labs</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://securitylabs.datadoghq.com/articles/</td>
+        <td>https://securitylabs.datadoghq.com/rss/feed.xml</td>
+        <td>RSS</td>
+        <td>2024-12-16</td>
+    </tr>
+    <tr>
         <td>Dell SecureWorks</td>
         <td>Research &amp; Intelligence</td>
         <td>Vendor</td>
