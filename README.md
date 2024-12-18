@@ -431,6 +431,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>DoublePulsar (Kevin Beaumont)</td>
+        <td>All</td>
+        <td>Analyst</td>
+        <td>https://doublepulsar.com/</td>
+        <td>https://doublepulsar.com/feed</td>
+        <td>ATOM</td>
+        <td>2024-12-18</td>
+    </tr>
+    <tr>
         <td>Jossef Harush Kadouri</td>
         <td>ALL</td>
         <td>Analyst</td>
