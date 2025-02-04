@@ -152,6 +152,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Cyber Intelligence Insights</td>
+        <td>ALL</td>
+        <td>Analyst</td>
+        <td>https://intelinsights.substack.com/</td>
+        <td>https://intelinsights.substack.com/feed</td>
+        <td>RSS</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
         <td>Cybercrime Diaries</td>
         <td>ALL</td>
         <td>Analyst</td>
@@ -2537,6 +2546,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Censys</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://censys.com/category/blog/</td>
+        <td></td>
+        <td>no_feed</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
         <td>Checkmarx</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2780,6 +2798,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Hunt Intelligence</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://hunt.io/blog</td>
+        <td></td>
+        <td>no_feed</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
         <td>IBM Security Intelligence</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2796,6 +2823,42 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://blogs.infoblox.com/category/cyber-threat-intelligence/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Infostealers by HudsonRock</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.infostealers.com/</td>
+        <td>https://www.infostealers.com/feed/</td>
+        <td>RSS</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
+        <td>Infostealers by HudsonRock</td>
+        <td>Malware</td>
+        <td>Vendor</td>
+        <td>https://www.infostealers.com/topic/malware/</td>
+        <td>https://www.infostealers.com/topic/malware/feed/</td>
+        <td>RSS</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
+        <td>Infostealers by HudsonRock</td>
+        <td>Infostealers</td>
+        <td>Vendor</td>
+        <td>https://www.infostealers.com/topic/infostealers/</td>
+        <td>https://www.infostealers.com/topic/infostealers/feed/</td>
+        <td>RSS</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
+        <td>IntelEye</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://inteleye.io/blog</td>
+        <td></td>
+        <td>no_feed</td>
+        <td>2025-02-03</td>
     </tr>
     <tr>
         <td>Intezer</td>
@@ -2949,6 +3012,33 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://www.recordedfuture.com/feed</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>RedSense</td>
+        <td>Threat Briefing Summaries</td>
+        <td>Vendor</td>
+        <td>https://redsense.com/tags/threat-briefings/</td>
+        <td></td>
+        <td>no_feed</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
+        <td>RedSense</td>
+        <td>Intel Diary</td>
+        <td>Vendor</td>
+        <td>https://redsense.com/tags/blogs/</td>
+        <td></td>
+        <td>no_feed</td>
+        <td>2025-02-03</td>
+    </tr>
+    <tr>
+        <td>RedSense</td>
+        <td>Attack Vectors</td>
+        <td>Vendor</td>
+        <td>https://redsense.com/tags/attack-vectors/</td>
+        <td></td>
+        <td>no_feed</td>
+        <td>2025-02-03</td>
     </tr>
     <tr>
         <td>Reliaquest</td>
@@ -3183,6 +3273,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://www.upguard.com/news/rss.xml</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Validin</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.validin.com/blog/</td>
+        <td></td>
+        <td>no_feed</td>
+        <td>2025-02-03</td>
     </tr>
     <tr>
         <td>VirusTotal Blog</td>
