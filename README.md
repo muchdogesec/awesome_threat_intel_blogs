@@ -1,10 +1,30 @@
 # Awesome Threat Intel Blogs
 
-A curated list of blogs posting threat intel.
+## About
 
-We built this during our research for [Obstracts, the blog feed reader for cyber-security teams](https://www.obstracts.com/).
+A curated list of English language blogs with RSS or ATOM feeds posting cyber threat intelligence related content.
 
-[You can find a copy of the following table in a GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
+We built this during our research for [Obstracts, the blog feed reader for cyber-security teams](https://www.obstracts.com/), to create a list of high quality feeds we could subsribe to.
+
+## GSheets Version
+
+This list is now very long and the source data is managed in a GSheet.
+
+[You can find a copy of the GSheet here for easier navigation](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing).
+
+## Subscribe for updates
+
+To get automatically notified when this list is updated, [subscribe to email updates here](https://sibforms.com/serve/MUIFAPbIcZbrYijCOJgaFoAAIf_9FI_MADyWpfubzc9vyONMzq1dve8MYff2lZIG-LPFw9q4ug1BZJQNdtmVlUkD1rfGH-YXqasy1Pgip4L0yG9HgiLramJl3rkwMV4lWctzCT_sL4QZcOGSf0Gdit2C5_omYQdSxiNDriy7Z43aIrjnDo254VdhIoVauwJ-dd_GFBjArmZZMV5G).
+
+## Contributing
+
+Feel free to [contribute](CONTRIBUTING.md).
+
+## License
+
+[Creative Commons Attribution 4.0 International Public License](LICENSE).
+
+## List of blogs
 
 <table>
     <tr>
@@ -14,7 +34,7 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>Blog Link</td>
         <td>Feed Link</td>
         <td>Feed Type</td>
-        <td>Last checked</td>
+        <td>Date Added</td>
     </tr>
     <tr>
         <td>0xToxin</td>
@@ -440,6 +460,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>DataBreaches</td>
+        <td>ALL</td>
+        <td>Analyst</td>
+        <td>https://databreaches.net/</td>
+        <td>https://www.databreaches.net/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
         <td>DoublePulsar (Kevin Beaumont)</td>
         <td>All</td>
         <td>Analyst</td>
@@ -800,6 +829,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Citizen Lab</td>
+        <td>ALL</td>
+        <td>Community</td>
+        <td>https://citizenlab.ca/</td>
+        <td>https://citizenlab.ca/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
         <td>ISC Handler&#39;s Diary</td>
         <td>ALL</td>
         <td>Community</td>
@@ -873,6 +911,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
     </tr>
     <tr>
         <td>Center for Internet Security</td>
+        <td>All Advisories</td>
+        <td>Government</td>
+        <td>https://www.cisa.gov/about/contact-us/subscribe-updates-cisa</td>
+        <td>https://www.cisa.gov/cybersecurity-advisories/all.xml</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Center for Internet Security</td>
         <td>ICS Advisories</td>
         <td>Government</td>
         <td>https://www.cisa.gov/about/contact-us/subscribe-updates-cisa</td>
@@ -886,6 +933,51 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>Government</td>
         <td>https://www.cisa.gov/about/contact-us/subscribe-updates-cisa</td>
         <td>https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml</td>
+        <td>RSS</td>
+        <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cert Polska</td>
+        <td>ALL</td>
+        <td>Government</td>
+        <td>https://cert.pl/</td>
+        <td>https://cert.pl/en/atom.xml</td>
+        <td>ATOM</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
+        <td>CERT-FR MENACES ET INCIDENTS</td>
+        <td>Threat and Incidents</td>
+        <td>Government</td>
+        <td>https://www.cert.ssi.gouv.fr/cti/</td>
+        <td>https://www.cert.ssi.gouv.fr/cti/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
+        <td>Government of Canada Alerts and Advisories</td>
+        <td>ALL</td>
+        <td>Government</td>
+        <td>https://www.cyber.gc.ca/en</td>
+        <td>https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&amp;lang=en</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
+        <td>JPCERT</td>
+        <td>ALL</td>
+        <td>Government</td>
+        <td>https://blogs.jpcert.or.jp/en/</td>
+        <td>https://blogs.jpcert.or.jp/en/atom.xml</td>
+        <td>ATOM</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
+        <td>NCSC (UK)</td>
+        <td>ALL</td>
+        <td>Government</td>
+        <td>https://www.ncsc.gov.uk/information/rss-feeds</td>
+        <td>https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml</td>
         <td>RSS</td>
         <td>2024-04-03</td>
     </tr>
@@ -1104,6 +1196,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://gbhackers.com/category/vulnerability-android-2/feed/</td>
         <td>RSS</td>
         <td>2024-06-24</td>
+    </tr>
+    <tr>
+        <td>GovInfoSecurity</td>
+        <td>ALL</td>
+        <td>Media</td>
+        <td>https://www.govinfosecurity.com/</td>
+        <td>https://www.govinfosecurity.com/rss-feeds</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>Graham Cluley</td>
@@ -1617,6 +1718,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://www.infosecurity-magazine.com/rss/the-internet-of-things/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>NextGov</td>
+        <td>Cybersecurity</td>
+        <td>Media</td>
+        <td>https://www.nextgov.com/cybersecurity/</td>
+        <td>https://www.nextgov.com/rss/cybersecurity/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>Security Affairs</td>
@@ -2366,6 +2476,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>The Register</td>
+        <td>Security</td>
+        <td>Media</td>
+        <td>https://www.theregister.com/security/</td>
+        <td>https://www.theregister.com/security/headlines.atom</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
         <td>The Security Ledger</td>
         <td>ALL</td>
         <td>Media</td>
@@ -2546,13 +2665,13 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Censys</td>
-        <td>ALL</td>
+        <td>Center for Internet Security</td>
+        <td>Advisories</td>
         <td>Vendor</td>
-        <td>https://censys.com/category/blog/</td>
-        <td></td>
-        <td>no_feed</td>
-        <td>2025-02-03</td>
+        <td>https://www.cisecurity.org/advisory</td>
+        <td>https://www.cisecurity.org/feed/advisories</td>
+        <td>ATOM</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>Checkmarx</td>
@@ -2580,6 +2699,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>http://feeds.feedburner.com/feedburner/Talos</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cisco Umberella</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://umbrella.cisco.com/</td>
+        <td>https://umbrella.cisco.com/feed</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>Cloudflare</td>
@@ -2625,6 +2753,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://www.crowdstrike.com/blog/category/threat-intel-research/feed</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Cybereason</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.cybereason.com/blog</td>
+        <td>https://www.cybereason.com/blog/rss.xml</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>Cyble</td>
@@ -2708,6 +2845,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-08-22</td>
     </tr>
     <tr>
+        <td>Fidelis Security</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://fidelissecurity.com/</td>
+        <td>https://fidelissecurity.com/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
         <td>Fortinet</td>
         <td>Threat Research</td>
         <td>Vendor</td>
@@ -2762,6 +2908,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-08-15</td>
     </tr>
     <tr>
+        <td>GreyNoise Labs</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.labs.greynoise.io/</td>
+        <td>https://www.labs.greynoise.io/grimoire/index.xml</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
         <td>Group IB</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2780,6 +2935,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Have I Been Pwned</td>
+        <td>Latest Breaches        </td>
+        <td>Vendor</td>
+        <td>https://haveibeenpwned.com/</td>
+        <td>https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
         <td>Heimdal</td>
         <td>Threat Center</td>
         <td>Vendor</td>
@@ -2796,15 +2960,6 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://heimdalsecurity.com/blog/category/vulnerability/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
-    </tr>
-    <tr>
-        <td>Hunt Intelligence</td>
-        <td>ALL</td>
-        <td>Vendor</td>
-        <td>https://hunt.io/blog</td>
-        <td></td>
-        <td>no_feed</td>
-        <td>2025-02-03</td>
     </tr>
     <tr>
         <td>IBM Security Intelligence</td>
@@ -2852,15 +3007,6 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2025-02-03</td>
     </tr>
     <tr>
-        <td>IntelEye</td>
-        <td>ALL</td>
-        <td>Vendor</td>
-        <td>https://inteleye.io/blog</td>
-        <td></td>
-        <td>no_feed</td>
-        <td>2025-02-03</td>
-    </tr>
-    <tr>
         <td>Intezer</td>
         <td>Research</td>
         <td>Vendor</td>
@@ -2886,6 +3032,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://blog.knowbe4.com/rss.xml</td>
         <td>RSS</td>
         <td>2024-11-20</td>
+    </tr>
+    <tr>
+        <td>Lab52</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://lab52.io/</td>
+        <td>https://lab52.io/blog/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>Malwarebytes Labs</td>
@@ -2951,6 +3106,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Nextron</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.nextron-systems.com/</td>
+        <td>https://www.nextron-systems.com/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
+    </tr>
+    <tr>
         <td>Outpost24</td>
         <td>Research &amp; Threat Intelligence</td>
         <td>Vendor</td>
@@ -3014,31 +3178,13 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>RedSense</td>
-        <td>Threat Briefing Summaries</td>
+        <td>Red Canary</td>
+        <td>ALL</td>
         <td>Vendor</td>
-        <td>https://redsense.com/tags/threat-briefings/</td>
-        <td></td>
-        <td>no_feed</td>
-        <td>2025-02-03</td>
-    </tr>
-    <tr>
-        <td>RedSense</td>
-        <td>Intel Diary</td>
-        <td>Vendor</td>
-        <td>https://redsense.com/tags/blogs/</td>
-        <td></td>
-        <td>no_feed</td>
-        <td>2025-02-03</td>
-    </tr>
-    <tr>
-        <td>RedSense</td>
-        <td>Attack Vectors</td>
-        <td>Vendor</td>
-        <td>https://redsense.com/tags/attack-vectors/</td>
-        <td></td>
-        <td>no_feed</td>
-        <td>2025-02-03</td>
+        <td>https://redcanary.com/</td>
+        <td>https://redcanary.com/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>Reliaquest</td>
@@ -3057,6 +3203,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://www.reliaquest.com/blog/category/threat-intelligence/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>ReversingLabs</td>
+        <td>Threat Research</td>
+        <td>Vendor</td>
+        <td>https://www.reversinglabs.com/blog/tag/threat-research</td>
+        <td>https://www.reversinglabs.com/blog/tag/threat-research/rss.xml</td>
+        <td>RSS</td>
+        <td>2024-04-08</td>
     </tr>
     <tr>
         <td>RST Cloud</td>
@@ -3138,6 +3293,15 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>https://www.seqrite.com/blog/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>SlashNext</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://slashnext.com/</td>
+        <td>https://slashnext.com/feed/</td>
+        <td>RSS</td>
+        <td>2025-05-29</td>
     </tr>
     <tr>
         <td>SOC Prime</td>
@@ -3275,15 +3439,6 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
     <tr>
-        <td>Validin</td>
-        <td>ALL</td>
-        <td>Vendor</td>
-        <td>https://www.validin.com/blog/</td>
-        <td></td>
-        <td>no_feed</td>
-        <td>2025-02-03</td>
-    </tr>
-    <tr>
         <td>VirusTotal Blog</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -3324,7 +3479,7 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>ALL</td>
         <td>Vendor</td>
         <td>https://threats.wiz.io/</td>
-        <td>https://fetchrss.com/rss/65b0eb775582bd1c19083c4365b0fdb664898a0daa63bef4.xml</td>
+        <td>https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml</td>
         <td>RSS</td>
         <td>2024-04-21</td>
     </tr>
@@ -3347,42 +3502,3 @@ We built this during our research for [Obstracts, the blog feed reader for cyber
         <td>2024-04-03</td>
     </tr>
 </table>
-
-## Miscellaneous
-
-### Finding feed URLs
-
-Many feeds paths can be guessed when a standard blog framework is used. e.g by appending the following to the URL path;
-
-* `/feed`
-* `/rss`
-
-Typically, but not always, feed URLs are also reported in the source code of the blog;
-
-Right-click -> View Page Source -> Ctrl+f `atom` or `rss`
-
-In some cases, blog categories have their own feeds so don't forget to check these if you only want a certain category of posts.
-
-### Dealing with blogs with no feeds
-
-There are a ton of security blogs that don't offer RSS or ATOM feeds. I understand why (namely, concerns over copywrite), but don't necessarily agree with the reasons why.
-
-Why?
-
-There are tons of services that will create feeds from websites, Google; "create rss feed for a website".
-
-For example; https://rss.app/, https://fetchrss.com/, are just a few examples.
-
-I can't recommend any, but on cursory testing they appear to pretty good at creating live feeds for blogs and Twitter feeds.
-
-## Contributing
-
-Feel free to [contribute](CONTRIBUTING.md).
-
-## Join the community
-
-[Join the DOGESEC community](https://community.dogesec.com/).
-
-## License
-
-[Creative Commons Attribution 4.0 International Public License](LICENSE).

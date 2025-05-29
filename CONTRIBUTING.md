@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+## Overview
+
 Please ensure your pull request adheres to the following guidelines:
 
 * Make sure your submission is not a duplicate.
@@ -43,3 +45,30 @@ To contribute I would recommend the following workflow;
 5. copy table contents
 6. [paste into this spreadsheet to HTML convertor, setting output as HTML](https://tableconvert.com/excel-to-html)
 7. add the generated HTML to the README.md file in this repo
+
+## Miscellaneous
+
+### Finding feed URLs
+
+Many feeds paths can be guessed when a standard blog framework is used. e.g by appending the following to the URL path;
+
+* `/feed`
+* `/rss`
+
+Typically, but not always, feed URLs are also reported in the source code of the blog;
+
+Right-click -> View Page Source -> Ctrl+f `atom` or `rss`
+
+In some cases, blog categories have their own feeds so don't forget to check these if you only want a certain category of posts.
+
+### Dealing with blogs with no feeds
+
+There are a ton of security blogs that don't offer RSS or ATOM feeds. I understand why (namely, concerns over copywrite), but don't necessarily agree with the reasons why.
+
+Why?
+
+There are tons of services that will create feeds from websites, Google; "create rss feed for a website".
+
+For example; https://rss.app/, https://fetchrss.com/, are just a few examples.
+
+I can't recommend any, but on cursory testing they appear to pretty good at creating live feeds for blogs and Twitter feeds.
