@@ -2620,6 +2620,42 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Binary Defense</td>
+        <td>Threat Intelligence</td>
+        <td>Vendor</td>
+        <td>https://www.binarydefense.com/resources/tag/threat-intelligence/</td>
+        <td>https://www.binarydefense.com/resources/tag/threat-intelligence/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-17</td>
+    </tr>
+    <tr>
+        <td>Binary Defense</td>
+        <td>Threat Research</td>
+        <td>Vendor</td>
+        <td>https://www.binarydefense.com/resources/tag/threat-research/</td>
+        <td>https://www.binarydefense.com/resources/tag/threat-research/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-17</td>
+    </tr>
+    <tr>
+        <td>Binary Defense</td>
+        <td>Threat Hunting</td>
+        <td>Vendor</td>
+        <td>https://www.binarydefense.com/resources/tag/threat-hunting/</td>
+        <td>https://www.binarydefense.com/resources/tag/threat-hunting/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-17</td>
+    </tr>
+    <tr>
+        <td>Binary Defense</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.binarydefense.com/resources/blog/</td>
+        <td>https://www.binarydefense.com/feed/</td>
+        <td>RSS</td>
+        <td>2024-06-17</td>
+    </tr>
+    <tr>
         <td>Bitdefender Labs</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2845,6 +2881,15 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>2024-08-22</td>
     </tr>
     <tr>
+        <td>FalconForce</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://medium.com/falconforce</td>
+        <td>https://medium.com/feed/falconforce</td>
+        <td>RSS</td>
+        <td>2024-06-17</td>
+    </tr>
+    <tr>
         <td>Fidelis Security</td>
         <td>ALL</td>
         <td>Vendor</td>
@@ -2960,6 +3005,15 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>https://heimdalsecurity.com/blog/category/vulnerability/feed/</td>
         <td>RSS</td>
         <td>2024-04-03</td>
+    </tr>
+    <tr>
+        <td>Huntress</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://www.huntress.com/blog</td>
+        <td>https://www.huntress.com/blog/rss.xml</td>
+        <td>RSS</td>
+        <td>2024-06-17</td>
     </tr>
     <tr>
         <td>IBM Security Intelligence</td>
@@ -3410,6 +3464,15 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>https://threatmon.io/blog/feed/</td>
         <td>RSS</td>
         <td>2024-07-17</td>
+    </tr>
+    <tr>
+        <td>TrustedSec</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://trustedsec.com/blog</td>
+        <td>https://trustedsec.com/feed.rss</td>
+        <td>RSS</td>
+        <td>2024-06-17</td>
     </tr>
     <tr>
         <td>Trustwave SpiderLabs Blog</td>
