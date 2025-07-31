@@ -2611,6 +2611,15 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>2024-04-03</td>
     </tr>
     <tr>
+        <td>Arachne Digital</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://medium.com/@arachnedigital</td>
+        <td>https://medium.com/@arachnedigital/feed</td>
+        <td>RSS</td>
+        <td>2025-07-31</td>
+    </tr>
+    <tr>
         <td>AT&amp;T Cybersecurity</td>
         <td>Alienvault research</td>
         <td>Vendor</td>
