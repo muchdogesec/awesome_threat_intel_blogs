@@ -40,11 +40,12 @@ To contribute I would recommend the following workflow;
 
 1. make a copy of the [GSheet here](https://docs.google.com/spreadsheets/d/11ebsrFeCaoSup9V3n01tGw4h8vmlVhyQz0kn2EVHM-M/edit?usp=sharing)
 2. add your entries
-3. format > sort range > advanced
-4. sort column C (a-z), sort column A (a-z)
-5. copy table contents
-6. [paste into this spreadsheet to HTML convertor, setting output as HTML](https://tableconvert.com/excel-to-html)
-7. add the generated HTML to the README.md file in this repo
+3. select all entries
+4. data > sort range > advanced
+5. sort column C (a-z), sort column A (a-z)
+6. copy table contents
+7. [paste into this spreadsheet to HTML convertor, setting output as HTML](https://tableconvert.com/excel-to-html)
+8. add the generated HTML to the README.md file in this repo
 
 ## Miscellaneous
 
