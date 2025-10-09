@@ -469,6 +469,15 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>2025-05-29</td>
     </tr>
     <tr>
+        <td>Hunt.io</td>
+        <td>ALL</td>
+        <td>Vendor</td>
+        <td>https://hunt.io/blog</td>
+        <td>N/A</td>
+        <td>None</td>
+        <td>2025-10-09</td>
+    </tr>
+    <tr>
         <td>DoublePulsar (Kevin Beaumont)</td>
         <td>All</td>
         <td>Analyst</td>
