@@ -16,16 +16,16 @@ Structure of entries:
 ```html
 <table>
     <tr>
-        <th>Blog</th>
-        <th>Blog Category</th>
+        <th>Name</th>
         <th>Type</th>
-        <th>Blog Link</th>
-        <th>Feed Link</th>
+        <th>Category</th>
+        <th>Blog</th>
+        <th>Feed</th>
     </tr>
     <tr>
         <td>Name of the blog</td>
-        <td>If using a specific category/tag feed from the blog, enter this here, else use "All posts"</td>
         <td>Pick one: Analyst, Vendor, Government, Media, Community</td>
+        <td>If using a specific category/tag feed from the blog, enter this here, else use "All posts"</td>
         <td>Link to the blog, inc. category/tag filter if applicable. Use markdown format of existing items</td>
         <td>Link to the feed, inc. category/tag filter if applicable. Use markdown format of existing items</td>
     </tr>
@@ -39,7 +39,7 @@ To contribute I would recommend the following workflow;
 3. select all entries
 4. data > sort range > advanced
 5. sort column C (a-z), sort column A (a-z)
-6. copy table contents
+6. copy table contents 
 7. [paste into this spreadsheet to HTML convertor, setting output as HTML](https://tableconvert.com/excel-to-html)
 8. add the generated HTML to the README.md file in this repo
 
