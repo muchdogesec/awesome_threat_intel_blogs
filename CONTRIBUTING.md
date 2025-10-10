@@ -21,17 +21,13 @@ Structure of entries:
         <th>Type</th>
         <th>Blog Link</th>
         <th>Feed Link</th>
-        <th>Feed Type</th>
-        <th>Last checked</th>
     </tr>
     <tr>
         <td>Name of the blog</td>
-        <td>If using a specific category/tag feed from the blog, enter this here, else use ALL</td>
+        <td>If using a specific category/tag feed from the blog, enter this here, else use "All posts"</td>
         <td>Pick one: Analyst, Vendor, Government, Media, Community</td>
-        <td>Link to the actual blog, inc. category/tag filter if applicable</td>
-        <td>Link to the actual feed, inc. category/tag filter if applicable</td>
-        <td>The type of feed, either: ATOM or RSS</td>
-        <td>The date you added or modified this entry</td>
+        <td>Link to the blog, inc. category/tag filter if applicable. Use markdown format of existing items</td>
+        <td>Link to the feed, inc. category/tag filter if applicable. Use markdown format of existing items</td>
     </tr>
 </table>
 ```
