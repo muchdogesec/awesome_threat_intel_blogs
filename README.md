@@ -6,6 +6,12 @@ A curated list of English language blogs with RSS or ATOM feeds posting cyber th
 
 We built this during our research for [Obstracts, the blog feed reader for cyber-security teams](https://www.obstracts.com/), to create a list of high quality feeds we could subsribe to.
 
+## Before you begin...
+
+![Obstracts](assets/obstracts-web.png)
+
+[Obstracts turns any blog into structured threat intelligence](https://www.obstracts.com/).
+
 ## GSheets Version
 
 This list is now very long and the source data is managed in a GSheet.
