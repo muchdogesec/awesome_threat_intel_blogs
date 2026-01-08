@@ -18,14 +18,12 @@ Structure of entries:
     <tr>
         <th>Name</th>
         <th>Type</th>
-        <th>Category</th>
         <th>Blog</th>
         <th>Feed</th>
     </tr>
     <tr>
         <td>Name of the blog</td>
         <td>Pick one: Analyst, Vendor, Government, Media, Community</td>
-        <td>If using a specific category/tag feed from the blog, enter this here, else use "All posts"</td>
         <td>Link to the blog, inc. category/tag filter if applicable. Use markdown format of existing items</td>
         <td>Link to the feed, inc. category/tag filter if applicable. Use markdown format of existing items</td>
     </tr>
