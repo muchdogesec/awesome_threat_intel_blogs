@@ -55,7 +55,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>BushidoToken Threat Intel</td>
         <td>Analyst</td>
         <td><a href='https://blog.bushidotoken.net/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/11287bc4-bdf7-5700-a278-efa2cdc85b9d' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Center for Internet Security</td>
@@ -85,7 +85,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Darknet</td>
         <td>Analyst</td>
         <td><a href='https://www.darknet.org.uk/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/6570f61e-62d2-5ee9-a8ec-f417200f5dc0' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>DataBreaches</td>
@@ -100,6 +100,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/cc0319ec-c46e-597d-ab3c-1f19ee3f8e1f' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>KM Sec</td>
+        <td>Analyst</td>
+        <td><a href='https://kmsec.uk/blog/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/4bbe082c-5e3e-5da7-8d30-832e4f5dfe26' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Krebs on Security</td>
         <td>Analyst</td>
         <td><a href='https://krebsonsecurity.com/' target='_blank'>View blog</a></td>
@@ -110,6 +116,18 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Analyst</td>
         <td><a href='https://www.govtech.com/blogs/lohrmann-on-cybersecurity' target='_blank'>View blog</a></td>
         <td><a href='https://app.obstracts.com/feeds/95411387-6c2f-5870-bd62-759c9fcc5c87' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
+        <td>nohackie</td>
+        <td>Analyst</td>
+        <td><a href='https://nohackie.com/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/655a1dc3-45ed-51ed-a0ae-c1d68b894ae0' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
+        <td>On the Hunt (Newton Paul)</td>
+        <td>Analyst</td>
+        <td><a href='https://newtonpaul.com/blog/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/7aca08c0-4c47-5b0d-ac00-505d4ec1a07a' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Raghavti Research</td>
@@ -157,7 +175,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Will's Root</td>
         <td>Analyst</td>
         <td><a href='https://www.willsroot.io/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/1edd7bcb-69f3-56d9-b05d-c72eb3182e54' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Citizen Lab</td>
@@ -196,6 +214,18 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/705d720a-c776-5b41-99dc-425bf6b836df' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>CERT EU</td>
+        <td>Government</td>
+        <td><a href='https://cert.europa.eu/publications/threat-intelligence' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/9796779f-6a1c-5ad0-b509-53e270b6ff57' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
+        <td>CERT EU</td>
+        <td>Government</td>
+        <td><a href='https://cert.europa.eu/publications/security-advisories/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/9095a84e-ff39-567f-9f27-253b87153676' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Cert Polska</td>
         <td>Government</td>
         <td><a href='https://cert.pl/en/' target='_blank'>View blog</a></td>
@@ -205,7 +235,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>CERT-FR MENACES ET INCIDENTS</td>
         <td>Government</td>
         <td><a href='https://www.cert.ssi.gouv.fr/cti/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/949422fb-e3fd-5ef4-b3f8-759a894ff651' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Der Ver­fas­sungs­schutz</td>
@@ -235,7 +265,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>US-Cert National Cyber Awareness System</td>
         <td>Government</td>
         <td><a href='https://us-cert.cisa.gov/ncas/alerts' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/2be8d77e-54bf-5afd-a1ab-cb70f091035f' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>404 Media</td>
@@ -259,7 +289,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>CIO Magazine</td>
         <td>Media</td>
         <td><a href='https://www.cio.com/security/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/bb3c7a59-6682-5a8f-83d4-73d37a43986f' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Cyber Security News</td>
@@ -296,12 +326,6 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Media</td>
         <td><a href='https://www.grahamcluley.com/' target='_blank'>View blog</a></td>
         <td><a href='https://app.obstracts.com/feeds/846d036f-1472-5708-bb75-f6e3b95e350f' target='_blank'>Subscribe to Feed</a></td>
-    </tr>
-    <tr>
-        <td>HACKMAGEDDON</td>
-        <td>Media</td>
-        <td><a href='http://www.hackmageddon.com/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>HackRead</td>
@@ -391,6 +415,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>The Security Ledger</td>
         <td>Media</td>
         <td><a href='https://securityledger.com/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/6169e9ce-e0e8-5651-b87f-8a068ddf58e9' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td><a href='https://venturebeat.com/security' target='_blank'>View blog</a></td>
         <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
@@ -427,13 +457,13 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>AquaSec</td>
         <td>Vendor</td>
         <td><a href='https://www.aquasec.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/d38238bc-d753-5f81-9c0f-6f31a22d7d70' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Arctic Wolf</td>
         <td>Vendor</td>
         <td><a href='https://arcticwolf.com/resources/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/9102b220-4788-567a-bd30-8135d28fa43e' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Aryaka</td>
@@ -451,13 +481,13 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>BforeAI</td>
         <td>Vendor</td>
         <td><a href='https://bfore.ai/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/e28a592f-9c14-5f12-aa13-278ed4de49f6' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Binary Defense</td>
         <td>Vendor</td>
         <td><a href='https://binarydefense.com/resources/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/6a9b10fe-0158-502e-9ec2-79149fcf2ea1' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Bitdefender Labs</td>
@@ -488,6 +518,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Vendor</td>
         <td><a href='https://brandefense.io/blog/' target='_blank'>View blog</a></td>
         <td><a href='https://app.obstracts.com/feeds/fab4a295-5944-5656-b2db-38a389883cd8' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
+        <td>Censys</td>
+        <td>Vendor</td>
+        <td><a href='https://censys.com/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/5bae04de-fe6e-513e-9a84-dae21a4b3734' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Center for Internet Security</td>
@@ -528,14 +564,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     <tr>
         <td>Claroty</td>
         <td>Vendor</td>
-        <td><a href='https://claroty.com/blog' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://claroty.com/team82/research/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/0e212062-1a0a-5652-919a-8d201d00ad04' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Clearsky Security</td>
         <td>Vendor</td>
         <td><a href='https://www.clearskysec.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/d194399a-fe8c-57be-bf66-8675b5f9f963' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Cloudflare</td>
@@ -577,13 +613,13 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Cyera</td>
         <td>Vendor</td>
         <td><a href='https://www.cyera.com/blog' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/42baeb5f-1792-5714-bfc6-77d8de6085fa' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Cyera Research Labs</td>
         <td>Vendor</td>
         <td><a href='https://www.cyera.com/research-labs' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/2f8fc4c3-551b-537c-8cfe-25f1ba89ffb1' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Datadog Security Labs</td>
@@ -595,7 +631,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Deep Instinct</td>
         <td>Vendor</td>
         <td><a href='https://www.deepinstinct.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/d7334860-baf1-5898-991a-caa68eb5580a' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Doctor Web</td>
@@ -613,19 +649,13 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Dragos</td>
         <td>Vendor</td>
         <td><a href='https://www.dragos.com/blog' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/39740aa2-052e-53ca-ad1e-32d10b79cc63' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>EclecticIQ</td>
         <td>Vendor</td>
         <td><a href='https://blog.eclecticiq.com/' target='_blank'>View blog</a></td>
         <td><a href='https://app.obstracts.com/feeds/536cbb24-aecc-5e80-ae56-dedf34ffc663' target='_blank'>Subscribe to Feed</a></td>
-    </tr>
-    <tr>
-        <td>eCrime.ch</td>
-        <td>Vendor</td>
-        <td><a href='https://ecrime.ch/newsletter.php' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Elastic</td>
@@ -643,7 +673,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Expel</td>
         <td>Vendor</td>
         <td><a href='https://expel.com/blog/?category=threat-intel' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/57f65a6f-fb84-5fd7-ba2b-6623322224fb' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>FalconForce</td>
@@ -667,7 +697,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Fox-IT International blog</td>
         <td>Vendor</td>
         <td><a href='https://blog.fox-it.com' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/c35efdcf-b291-5ae3-b5f4-8034517b9d61' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>GitHub Security Lab Archives</td>
@@ -712,10 +742,10 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
-        <td>Have I Been Pwned</td>
+        <td>Halycon</td>
         <td>Vendor</td>
-        <td><a href='https://haveibeenpwned.com/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://www.halcyon.ai/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/cfd04d80-e7f1-52c9-b6bf-3af60f5ff75c' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Heimdal</td>
@@ -724,22 +754,22 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/29f262a6-fa5b-5645-b135-4f174e949c83' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td></td>
+        <td></td>
+        <td><a href='https://www.helpnetsecurity.com/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/aa8b496b-6ef2-53a7-8fbb-79c6bb0d6dd4' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Hunt.io</td>
         <td>Vendor</td>
         <td><a href='https://hunt.io/blog' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/98d67329-7040-5562-b5e6-876377cf6ae2' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Huntress</td>
         <td>Vendor</td>
         <td><a href='https://www.huntress.com/blog' target='_blank'>View blog</a></td>
         <td><a href='https://app.obstracts.com/feeds/e1b4d979-e6a5-5eef-9f0d-273f751e82e1' target='_blank'>Subscribe to Feed</a></td>
-    </tr>
-    <tr>
-        <td>IBM Security Intelligence</td>
-        <td>Vendor</td>
-        <td><a href='https://www.ibm.com/think/security' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Infoblox</td>
@@ -760,12 +790,6 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/03d30791-f7ea-5133-af31-c3f411dda35e' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
-        <td>IntelEye</td>
-        <td>Vendor</td>
-        <td><a href='https://inteleye.io/blog' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
-    </tr>
-    <tr>
         <td>Intezer</td>
         <td>Vendor</td>
         <td><a href='https://intezer.com/blog/' target='_blank'>View blog</a></td>
@@ -776,6 +800,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Vendor</td>
         <td><a href='https://www.intrinsec.com/blog/' target='_blank'>View blog</a></td>
         <td><a href='https://app.obstracts.com/feeds/b6e193c2-8f72-519e-9710-6764a5710e73' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
+        <td>iVerify</td>
+        <td>Vendor</td>
+        <td><a href='https://iverify.io/blog' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/70dd1922-9678-5091-8ec8-22499dc4dbbf' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>KnowBe4</td>
@@ -895,7 +925,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Reliaquest</td>
         <td>Vendor</td>
         <td><a href='https://reliaquest.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/fe6671dc-af3a-5dc4-9f5a-ed09378bdd0c' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>ReversingLabs</td>
@@ -925,7 +955,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Security Scorecard</td>
         <td>Vendor</td>
         <td><a href='https://securityscorecard.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/4d944236-3671-5881-a3bd-ae37c766406f' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>security.com</td>
@@ -949,13 +979,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>SentinelOne</td>
         <td>Vendor</td>
         <td><a href='https://www.sentinelone.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
-    </tr>
-    <tr>
-        <td>SentinelOne Labs</td>
-        <td>Vendor</td>
-        <td><a href='https://www.sentinelone.com/labs/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/28eb6b6f-d23b-5dcf-abba-061e586604c0' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/5982ea17-08a5-5cca-9aaf-d72a374ca2ad' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>seqrite</td>
@@ -979,19 +1003,25 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Sophos</td>
         <td>Vendor</td>
         <td><a href='https://www.sophos.com/en-us/blog' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/952030e0-80e5-5ea5-8f47-c74302211fa3' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>SpamHaus</td>
         <td>Vendor</td>
         <td><a href='https://www.spamhaus.org/resource-hub/feed' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/02edf558-3ae0-58b6-8a59-b2b7f014356c' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>SpecterOps Blog</td>
         <td>Vendor</td>
         <td><a href='https://posts.specterops.io/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/1ae489cf-f335-57a8-b96d-c87e1cd0eb78' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
+        <td>Sublime Security</td>
+        <td>Vendor</td>
+        <td><a href='https://sublime.security/blog/' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/5782159d-3066-574c-8f3f-be1dd8288b65' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Sysdig</td>
@@ -1036,10 +1066,16 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/b25887f0-f0cd-5b4b-8c65-ffc0b6a32919' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>Trinity Cyber</td>
+        <td>Vendor</td>
+        <td><a href='https://www.trinitycyber.com/blog' target='_blank'>View blog</a></td>
+        <td><a href='https://app.obstracts.com/feeds/0bf1d70f-760d-54c9-8527-0f3563c72ffe' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>TrustedSec</td>
         <td>Vendor</td>
         <td><a href='https://trustedsec.com/blog' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/2426fd19-0848-58fe-abbd-11e325191761' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>UpGuard Blog</td>
@@ -1063,7 +1099,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Virus Bulletin</td>
         <td>Vendor</td>
         <td><a href='https://www.virusbulletin.com/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/2863bdab-a190-551f-a0b7-04a478cc60fe' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>VirusTotal Blog</td>
@@ -1075,7 +1111,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Volexity</td>
         <td>Vendor</td>
         <td><a href='https://www.volexity.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/85818f22-92ff-5c68-8dc1-a9c6d6e505ec' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>WatchGuard Seplicity</td>
@@ -1111,13 +1147,13 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>Zimperium</td>
         <td>Vendor</td>
         <td><a href='https://www.zimperium.com/blog/' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/c069b35f-90a0-534e-a445-c54d97ad0068' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>ZScalar</td>
         <td>Vendor</td>
         <td><a href='https://www.zscaler.com/blogs' target='_blank'>View blog</a></td>
-        <td><a href='https://app.obstracts.com/feeds/' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/dcb31053-0a55-5fcd-ba0e-975cdae7dce8' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Zynap</td>
