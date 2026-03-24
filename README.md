@@ -634,6 +634,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/d7334860-baf1-5898-991a-caa68eb5580a' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>defend.network</td>
+        <td>Vendor</td>
+        <td><a href='https://defend.network/briefings' target='_blank'>View blog</a></td>
+        <td><a href='https://defend.network/feed.xml' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Doctor Web</td>
         <td>Vendor</td>
         <td><a href='https://news.drweb.com/all/?c=5' target='_blank'>View blog</a></td>
