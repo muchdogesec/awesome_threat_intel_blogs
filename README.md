@@ -802,6 +802,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/b6e193c2-8f72-519e-9710-6764a5710e73' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>IRONSCALES</td>
+        <td>Vendor</td>
+        <td><a href='https://ironscales.com/threat-intelligence' target='_blank'>View blog</a></td>
+        <td><a href='https://www.ironscales.com/threat-intelligence/rss.xml' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>iVerify</td>
         <td>Vendor</td>
         <td><a href='https://iverify.io/blog' target='_blank'>View blog</a></td>
