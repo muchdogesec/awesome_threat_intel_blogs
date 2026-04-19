@@ -724,6 +724,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/860e288b-9e83-5059-97e4-6a72743cc174' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>Google Threat Intelligence Group</td>
+        <td>Vendor</td>
+        <td><a href='https://cloud.google.com/blog/topics/threat-intelligence' target='_blank'>View blog</a></td>
+        <td><a href='https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>GreyNoise Labs</td>
         <td>Vendor</td>
         <td><a href='https://www.labs.greynoise.io/' target='_blank'>View blog</a></td>
