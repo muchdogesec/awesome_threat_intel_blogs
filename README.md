@@ -637,7 +637,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>defend.network</td>
         <td>Vendor</td>
         <td><a href='https://defend.network/briefings' target='_blank'>View blog</a></td>
-        <td><a href='https://defend.network/feed.xml' target='_blank'>Subscribe to Feed</a></td>
+        <td><a href='https://app.obstracts.com/feeds/9896fd2e-2cd7-538c-be15-f9ce860395f7' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
         <td>Doctor Web</td>
