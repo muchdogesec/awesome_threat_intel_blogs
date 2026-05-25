@@ -70,6 +70,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/c471de1b-328b-5e15-80d9-19e56af39136' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>CosmicBytez Labs</td>
+        <td>Analyst</td>
+        <td><a href='https://labs.cosmicbytez.ca/' target='_blank'>View blog</a></td>
+        <td><a href='https://labs.cosmicbytez.ca/api/rss' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Cyber Intelligence Insights</td>
         <td>Analyst</td>
         <td><a href='https://intelinsights.substack.com/' target='_blank'>View blog</a></td>
