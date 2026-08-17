@@ -304,6 +304,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/31496587-6853-5622-9c6d-6979a1ee0b6a' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>ThreatCluster</td>
+        <td>Media</td>
+        <td><a href='https://threatcluster.io/' target='_blank'>View blog</a></td>
+        <td><a href='https://threatcluster.io/feed.xml' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Cyber Security News</td>
         <td>Media</td>
         <td><a href='https://cybersecuritynews.com/' target='_blank'>View blog</a></td>
