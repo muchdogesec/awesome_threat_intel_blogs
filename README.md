@@ -826,6 +826,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/4da5a88c-35f6-5acd-8921-2a75ef66a358' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>TrazTech Research</td>
+        <td>Vendor</td>
+        <td><a href='https://traztech.ca/blog' target='_blank'>View blog</a></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>TrustedSec</td>
         <td>Vendor</td>
         <td><a href='https://trustedsec.com/blog' target='_blank'>View blog</a></td>
