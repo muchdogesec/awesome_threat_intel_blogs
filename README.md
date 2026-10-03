@@ -1174,6 +1174,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/d09f93f8-3031-5489-938a-2f6faf2eb313' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>Zero Hunt Research</td>
+        <td>Vendor</td>
+        <td><a href='https://zerohunt.ai/blog/' target='_blank'>View blog</a></td>
+        <td><a href='https://zerohunt.ai/feed.xml' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Zimperium</td>
         <td>Vendor</td>
         <td><a href='https://www.zimperium.com/blog/' target='_blank'>View blog</a></td>
