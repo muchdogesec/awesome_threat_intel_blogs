@@ -508,6 +508,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/860e288b-9e83-5059-97e4-6a72743cc174' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>Kaminari Ad Threat Research</td>
+        <td>Vendor</td>
+        <td><a href='https://kaminari.ad/blog' target='_blank'>View blog</a></td>
+        <td><a href='https://kaminari.ad/blog/feed.xml' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>KnowBe4</td>
         <td>Vendor</td>
         <td><a href='https://blog.knowbe4.com/' target='_blank'>View blog</a></td>
