@@ -394,6 +394,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/b358368f-2eee-5ad2-bf16-a7fc369ebd50' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>ICHI — Internet Cyber Health Index</td>
+        <td>Media</td>
+        <td><a href='https://ichi.global' target='_blank'>View blog</a></td>
+        <td><a href='https://ichi.global/api/alerts' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>InfoRiskToday</td>
         <td>Media</td>
         <td><a href='https://www.inforisktoday.com/' target='_blank'>View blog</a></td>
