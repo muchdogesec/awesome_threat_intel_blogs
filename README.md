@@ -310,6 +310,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/1b99a0df-dc87-5c39-945e-e698b9b2ab0c' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>Cyber-Threat.net</td>
+        <td>Media</td>
+        <td><a href='https://cyber-threat.net/' target='_blank'>View blog</a></td>
+        <td><a href='https://cyber-threat.net/feed/' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>GBHackers</td>
         <td>Media</td>
         <td><a href='https://gbhackers.com/' target='_blank'>View blog</a></td>
