@@ -1162,6 +1162,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/b2accc5c-7d5b-5c2f-9386-f4739ff140b8' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>Whatoblock</td>
+        <td>Vendor</td>
+        <td><a href='https://whatoblock.com/blog' target='_blank'>View blog</a></td>
+        <td><a href='https://whatoblock.com/blog/rss.xml' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>WIZ Blog</td>
         <td>Vendor</td>
         <td><a href='https://www.wiz.io/blog' target='_blank'>View blog</a></td>
