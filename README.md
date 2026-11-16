@@ -580,6 +580,12 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href='https://app.obstracts.com/feeds/fab4a295-5944-5656-b2db-38a389883cd8' target='_blank'>Subscribe to Feed</a></td>
     </tr>
     <tr>
+        <td>BreachDetect</td>
+        <td>Vendor</td>
+        <td><a href='https://breachdetect.net/blog' target='_blank'>View blog</a></td>
+        <td><a href='https://breachdetect.net/blog/feed.xml' target='_blank'>Subscribe to Feed</a></td>
+    </tr>
+    <tr>
         <td>Canary Trap</td>
         <td>Vendor</td>
         <td><a href='https://canarytrap.com/blog/' target='_blank'>View blog</a></td>
